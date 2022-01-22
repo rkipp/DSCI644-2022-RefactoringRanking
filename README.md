@@ -15,7 +15,7 @@
 
 ### Imporant Paper Presentation and Review Dates
 
-+ Present: "Learning to rank developers for bug report assignment 2020"
++ Present: "Modern Practices in the Context of Modern Code Review 2020"
   + Feb 17, 2022
 + Review: "A multi-objective approach for code Review Recommendation 2020"
   + March 31, 2022 (**DUE BEFORE CLASS STARTS**)
