@@ -11,7 +11,7 @@
 + Pre-Phase 4 submission - Apr 11, 2022 11:59 PM EST
 + Phase 4 submission - Apr 25, 2022 11:59 PM EST
 
-## Paper Presentation and Reviw
+## Paper Presentation and Review
 
 ### Imporant Paper Presentation and Review Dates
 
