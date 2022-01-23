@@ -1,0 +1,1328 @@
+SATD_id,Commit_id,Project_id,Satd_type,v1_comment,v2_comment
+1751,696b51abc1e5f38b1c636710af552cafcc2e14fc,11,SATD_CHANGED,"TODO: Load analysis data
+FIXME
+results
+.csv
+from
+a
+constant",TODO: Load analysis data
+1752,696b51abc1e5f38b1c636710af552cafcc2e14fc,11,SATD_REMOVED,"TODO: Load analysis data
+FIXME
+results
+.csv
+from
+a
+constant","results
+.csv
+from
+a
+constant"
+1753,696b51abc1e5f38b1c636710af552cafcc2e14fc,11,SATD_REMOVED,FIXME: use analysis name,None
+1760,bf593d71241663e6b89fdb0f10298e3c8c42a2ba,11,SATD_REMOVED,FIXME:,None
+1761,bf593d71241663e6b89fdb0f10298e3c8c42a2ba,11,SATD_REMOVED,TODO: sort func must be independent of param index,None
+1798,f229d7bf3644b7786d78f33b552b843bfc9ae0d9,11,CLASS_OR_METHOD_CHANGED,FIXME: Review,FIXME: Review
+1799,f229d7bf3644b7786d78f33b552b843bfc9ae0d9,11,SATD_REMOVED,TODO order by sum tag,None
+1800,f229d7bf3644b7786d78f33b552b843bfc9ae0d9,11,SATD_REMOVED,FIXME: Really needed ?,@XmlAnyElement
+1801,f229d7bf3644b7786d78f33b552b843bfc9ae0d9,11,SATD_REMOVED,FIXME: Really needed ?,None
+1860,d32b41db08e0e03cae6f9d51364c964e3022cf70,11,SATD_REMOVED,"FIXME: ask Christian about it, maybe it should go to the figure.
+FIXME: a lo mejor con conservar un decorador especifico para la data
+matrix ya es suficiente, este nos puede proporcionar el tipo de dato.",None
+1923,313d35ae97c7f9e478da2724dc3752d4232c5f9b,11,SATD_REMOVED,"This is a workaround for bug in Swing:
+http://bugs.sun.com/view_bug.do?bug_id=4473075",None
+1924,313d35ae97c7f9e478da2724dc3752d4232c5f9b,11,CLASS_OR_METHOD_CHANGED,"This is a workaround for bug in Swing:
+http://bugs.sun.com/view_bug.do?bug_id=4473075","This is a workaround for bug in Swing:
+http://bugs.sun.com/view_bug.do?bug_id=4473075"
+1925,7d95e3b40a43d86ae5162414bab7c74f57e54564,11,SATD_REMOVED,FIXME: Improve efficency (dont use maps and sets!!),None
+1985,1ae2edb9d8f7e7fabc44fafd35498700f85e818b,11,SATD_REMOVED,FIXME: de donde puedo sacar el resource para guardar la matriz?,None
+1986,1ae2edb9d8f7e7fabc44fafd35498700f85e818b,11,SATD_REMOVED,"FIXME: el baseResource no es necesario siempre no hay porque
+arrastralo",None
+1988,0c1dd8919b408a1d5b4d41f78d8b9d276e662d02,11,FILE_PATH_CHANGED,FIXME:,FIXME:
+1989,0c1dd8919b408a1d5b4d41f78d8b9d276e662d02,11,FILE_PATH_CHANGED,FIXME:,FIXME:
+1990,0c1dd8919b408a1d5b4d41f78d8b9d276e662d02,11,SATD_REMOVED,FIXME: could it be transient?,None
+1991,0c1dd8919b408a1d5b4d41f78d8b9d276e662d02,11,FILE_PATH_CHANGED,FIXME: de donde puedo sacar el resource para guardar la matriz?,FIXME: de donde puedo sacar el resource para guardar la matriz?
+1992,0c1dd8919b408a1d5b4d41f78d8b9d276e662d02,11,FILE_PATH_CHANGED,"FIXME: el baseResource no es necesario siempre no hay porque
+arrastralo","FIXME: el baseResource no es necesario siempre no hay porque
+arrastralo"
+1993,d7f96893749d4cbad17d56a089b617db10b5690b,11,SATD_REMOVED,FIXME:,None
+1994,d7f96893749d4cbad17d56a089b617db10b5690b,11,SATD_REMOVED,FIXME:,None
+1995,d7f96893749d4cbad17d56a089b617db10b5690b,11,SATD_REMOVED,FIXME: de donde puedo sacar el resource para guardar la matriz?,None
+1996,d7f96893749d4cbad17d56a089b617db10b5690b,11,SATD_REMOVED,"FIXME: el baseResource no es necesario siempre no hay porque
+arrastralo",None
+2022,695332bb9980c8349eddcae63376b0894811a86f,11,CLASS_OR_METHOD_CHANGED,FIXME: it must go on every entityPersistence,FIXME: it must go on every entityPersistence
+2023,695332bb9980c8349eddcae63376b0894811a86f,11,SATD_REMOVED,FIXME the monitor should be passed through method parameters,None
+2024,695332bb9980c8349eddcae63376b0894811a86f,11,FILE_PATH_CHANGED,FIXME,FIXME
+2025,695332bb9980c8349eddcae63376b0894811a86f,11,SATD_REMOVED,TODO remove exception,None
+2026,695332bb9980c8349eddcae63376b0894811a86f,11,SATD_REMOVED,"TODO This is not the place to create new JAXB instance
+FIXME remove",None
+2073,8141e3e198f116581aff8198580e0212abb52f36,11,SATD_REMOVED,FIXME Esto no va aqui,None
+2074,8141e3e198f116581aff8198580e0212abb52f36,11,SATD_REMOVED,FIXME Review: calculon ????,None
+2075,8141e3e198f116581aff8198580e0212abb52f36,11,SATD_REMOVED,FIXME Artifact.getResource(),None
+2221,f11cda078c10ce1e101380d94d6a94b37133a963,11,SATD_CHANGED,FIXME,TODO fire loading exception
+2222,f11cda078c10ce1e101380d94d6a94b37133a963,11,SATD_REMOVED,TODO this info should come from another page,None
+2239,dd4cfc00aa4dd9fa1de5481173956b55c8bc7932,11,SATD_REMOVED,TODO wsdl url,None
+2240,dd4cfc00aa4dd9fa1de5481173956b55c8bc7932,11,SATD_REMOVED,FIXME,None
+2242,dd4cfc00aa4dd9fa1de5481173956b55c8bc7932,11,SATD_REMOVED,FIXME use wsdlUrl,None
+2320,280105c93544395143f0c4bc7f6dbbd5716ef1e7,11,SATD_REMOVED,TODO remove JAXB support,None
+2321,280105c93544395143f0c4bc7f6dbbd5716ef1e7,11,SATD_REMOVED,TODO rename to getCells,None
+2322,280105c93544395143f0c4bc7f6dbbd5716ef1e7,11,SATD_REMOVED,TODO rename to setCells,None
+2323,280105c93544395143f0c4bc7f6dbbd5716ef1e7,11,SATD_REMOVED,FIXME XmlTransient,None
+2324,280105c93544395143f0c4bc7f6dbbd5716ef1e7,11,SATD_REMOVED,TODO Rename to setPathResolver,None
+2325,280105c93544395143f0c4bc7f6dbbd5716ef1e7,11,SATD_REMOVED,TODO It should be configurable,None
+2326,280105c93544395143f0c4bc7f6dbbd5716ef1e7,11,SATD_REMOVED,FIXME XmlTransient,None
+2327,280105c93544395143f0c4bc7f6dbbd5716ef1e7,11,SATD_REMOVED,"FIXME XmlTransient
+@XmlJavaTypeAdapter(MatrixXmlAdapter.class)",None
+2328,280105c93544395143f0c4bc7f6dbbd5716ef1e7,11,SATD_REMOVED,TODO: new modules format,None
+2330,280105c93544395143f0c4bc7f6dbbd5716ef1e7,11,SATD_REMOVED,TODO It should be configurable,None
+2331,280105c93544395143f0c4bc7f6dbbd5716ef1e7,11,CLASS_OR_METHOD_CHANGED,FIXME: heap problems with annotations..,FIXME: heap problems with annotations..
+2336,9be0b558521fbd510625cc8a23bd161b649f8944,11,SATD_REMOVED,TODO status icon,None
+2337,9be0b558521fbd510625cc8a23bd161b649f8944,11,CLASS_OR_METHOD_CHANGED,TODO status icon,TODO status icon
+2338,9be0b558521fbd510625cc8a23bd161b649f8944,11,SATD_REMOVED,TODO,<editor-fold defaultstate=collapsed desc=Generated Code>//GEN-BEGIN:initComponents
+2339,9be0b558521fbd510625cc8a23bd161b649f8944,11,SATD_REMOVED,TODO,</editor-fold>//GEN-END:initComponents
+2340,9be0b558521fbd510625cc8a23bd161b649f8944,11,SATD_REMOVED,TODO,Variables declaration - do not modify//GEN-BEGIN:variables
+2341,9be0b558521fbd510625cc8a23bd161b649f8944,11,SATD_REMOVED,TODO,End of variables declaration//GEN-END:variables
+2342,9be0b558521fbd510625cc8a23bd161b649f8944,11,CLASS_OR_METHOD_CHANGED,TODO status icon,TODO status icon
+2343,9be0b558521fbd510625cc8a23bd161b649f8944,11,SATD_REMOVED,TODO remove JAXB support,None
+2344,9be0b558521fbd510625cc8a23bd161b649f8944,11,SATD_REMOVED,TODO rename to makeCells(),None
+2359,5ba7529620e1b39d3b063e40634b2485c29ca9b2,11,SATD_REMOVED,TODO Allow Welcome to be closed ???,None
+2399,19ad398c6e523191116ec84f91b2ef92ff34847f,11,SATD_REMOVED,FIXME use JAXB to save state,None
+2401,4fd352349eb4b1ed62abe48066794932d26de9f9,11,SATD_REMOVED,"GEN-FIRST:event_leftLogoMouseClicked
+TODO add your handling code here:
+GEN-LAST:event_leftLogoMouseClicked",GEN-LAST:event_rightLogoMouseClicked
+2402,4fd352349eb4b1ed62abe48066794932d26de9f9,11,SATD_REMOVED,"GEN-FIRST:event_leftLogoMouseClicked
+TODO add your handling code here:
+GEN-LAST:event_leftLogoMouseClicked",GEN-FIRST:event_leftLogoMouseClicked
+2403,4fd352349eb4b1ed62abe48066794932d26de9f9,11,SATD_REMOVED,"GEN-FIRST:event_leftLogoMouseClicked
+TODO add your handling code here:
+GEN-LAST:event_leftLogoMouseClicked",GEN-LAST:event_leftLogoMouseClicked
+2404,1a5a8d24b1b8d9ceff510fd2fa8378274cf5506f,11,SATD_REMOVED,TODO Deberia lanzar una excepciÃ³n?,None
+2405,1a5a8d24b1b8d9ceff510fd2fa8378274cf5506f,11,CLASS_OR_METHOD_CHANGED,TODO Deberia lanzar una excepciÃ³n?,TODO Deberia lanzar una excepciÃ³n?
+2411,6f4e9b2817cdebe1bee8d51190893be5b0cfc86d,11,SATD_REMOVED,TODO transposition if correlation for rows selected,None
+2412,6f4e9b2817cdebe1bee8d51190893be5b0cfc86d,11,SATD_REMOVED,FIXME use double[],None
+2414,6f4e9b2817cdebe1bee8d51190893be5b0cfc86d,11,SATD_REMOVED,TODO count how many pairs to compare,None
+2415,6f4e9b2817cdebe1bee8d51190893be5b0cfc86d,11,SATD_REMOVED,"FIXME:
+this must be common to MatrixView and TableView",None
+2514,d5951d61c67a04a97d9365d5a5b40daeb53e8e09,11,SATD_REMOVED,FIXME This code is very inefficient !!! check getNextInstance and getStructure,None
+2521,a9b4de032424e725e421775860d24bb04675363c,11,FILE_PATH_CHANGED,FIXME: external parameter,FIXME: external parameter
+2522,a9b4de032424e725e421775860d24bb04675363c,11,SATD_REMOVED,FIXME: heap problems with annotations..,None
+2536,54e8472475dfd52175c4166e465eef07590b5d78,11,FILE_PATH_CHANGED,FIXME by columns,FIXME by columns
+2537,54e8472475dfd52175c4166e465eef07590b5d78,11,SATD_REMOVED,"FIXME the name of the module depends on the name of the matrix view columns, may be the module map should be saved",None
+2538,54e8472475dfd52175c4166e465eef07590b5d78,11,SATD_REMOVED,FIXME imatrixview only when visibility or lead changed,None
+2549,804f066ce0e71edb8d8ff9414fe7aa4a82b371e8,11,SATD_REMOVED,TODO: allow to add various ClusterSets and remove the following line,None
+2567,26f6a14b5c2e5f7fda04278b3fbabf596c8d8fd1,11,SATD_CHANGED,Get map from the FTP --- TODO Filter out items not in data,TODO Filter out items not in data if data is not empty
+2568,26f6a14b5c2e5f7fda04278b3fbabf596c8d8fd1,11,SATD_REMOVED,Get map from the FTP --- TODO Filter out items not in data,Get map from the FTP
+2570,26f6a14b5c2e5f7fda04278b3fbabf596c8d8fd1,11,SATD_REMOVED,TODO getMtc() ...,None
+2633,7dabd147bc8c3647aeff100c3ec868099e4b1854,11,SATD_REMOVED,"TODO This is inefficient, it is being used all the matrix row
+because of the way the test.processTest() works, but only some
+columns are being processed. We should take only the values
+corresponding to the selected columns for this module.",None
+2634,7dabd147bc8c3647aeff100c3ec868099e4b1854,11,SATD_CHANGED,FIXME: May be its better return null ???,FIXME: May be its better to return null ???
+2714,fbf7b98a46f3359aacf86814206710da3043a993,11,SATD_REMOVED,FIXME: allow multiple HeatmapClusterBands to be stored,None
+2715,fbf7b98a46f3359aacf86814206710da3043a993,11,SATD_MOVED_FILE,TODO activate in the next version:,TODO activate in the next version:
+2716,fbf7b98a46f3359aacf86814206710da3043a993,11,CLASS_OR_METHOD_CHANGED,FIXME what if cache is disabled ?,FIXME what if cache is disabled ?
+2717,fbf7b98a46f3359aacf86814206710da3043a993,11,SATD_MOVED_FILE,TODO remove selected text before,TODO remove selected text before
+2718,fbf7b98a46f3359aacf86814206710da3043a993,11,SATD_REMOVED,"GEN-FIRST:event_selectUrlPatternActionPerformed
+TODO add your handling code here:
+GEN-LAST:event_selectUrlPatternActionPerformed",GEN-LAST:event_headerEditBtnActionPerformed
+2719,fbf7b98a46f3359aacf86814206710da3043a993,11,SATD_REMOVED,"GEN-FIRST:event_selectUrlPatternActionPerformed
+TODO add your handling code here:
+GEN-LAST:event_selectUrlPatternActionPerformed",GEN-FIRST:event_headerUpBtnActionPerformed
+2720,fbf7b98a46f3359aacf86814206710da3043a993,11,SATD_REMOVED,"GEN-FIRST:event_upClusterActionPerformed
+TODO add your handling code here:
+GEN-LAST:event_upClusterActionPerformed",GEN-LAST:event_headerUpBtnActionPerformed
+2721,fbf7b98a46f3359aacf86814206710da3043a993,11,SATD_REMOVED,"GEN-FIRST:event_upClusterActionPerformed
+TODO add your handling code here:
+GEN-LAST:event_upClusterActionPerformed",GEN-FIRST:event_headerDownBtnActionPerformed
+2722,fbf7b98a46f3359aacf86814206710da3043a993,11,SATD_REMOVED,"GEN-FIRST:event_downClusterActionPerformed
+TODO add your handling code here:
+GEN-LAST:event_downClusterActionPerformed",GEN-LAST:event_headerUpBtnActionPerformed
+2723,fbf7b98a46f3359aacf86814206710da3043a993,11,SATD_REMOVED,"GEN-FIRST:event_downClusterActionPerformed
+TODO add your handling code here:
+GEN-LAST:event_downClusterActionPerformed",GEN-FIRST:event_headerDownBtnActionPerformed
+2724,fbf7b98a46f3359aacf86814206710da3043a993,11,SATD_REMOVED,"GEN-FIRST:event_downClusterActionPerformed
+TODO add your handling code here:
+GEN-LAST:event_downClusterActionPerformed",GEN-LAST:event_headerDownBtnActionPerformed
+2725,fbf7b98a46f3359aacf86814206710da3043a993,11,SATD_REMOVED,"GEN-FIRST:event_downClusterActionPerformed
+TODO add your handling code here:
+GEN-LAST:event_downClusterActionPerformed",GEN-FIRST:event_headerRemoveBtnActionPerformed
+2726,fbf7b98a46f3359aacf86814206710da3043a993,11,SATD_REMOVED,"GEN-FIRST:event_downClusterActionPerformed
+TODO add your handling code here:
+GEN-LAST:event_downClusterActionPerformed",GEN-LAST:event_headerRemoveBtnActionPerformed
+2727,fbf7b98a46f3359aacf86814206710da3043a993,11,SATD_REMOVED,"GEN-FIRST:event_sortByClusterActionPerformed
+TODO add your handling code here:
+GEN-LAST:event_sortByClusterActionPerformed",GEN-LAST:event_headerRemoveBtnActionPerformed
+2728,fbf7b98a46f3359aacf86814206710da3043a993,11,SATD_CHANGED,"GEN-FIRST:event_sortByClusterActionPerformed
+TODO add your handling code here:
+GEN-LAST:event_sortByClusterActionPerformed","GEN-FIRST:event_annImportActionPerformed
+TODO add your handling code here:
+GEN-LAST:event_annImportActionPerformed"
+2729,fbf7b98a46f3359aacf86814206710da3043a993,11,SATD_REMOVED,"GEN-FIRST:event_sortByClusterActionPerformed
+TODO add your handling code here:
+GEN-LAST:event_sortByClusterActionPerformed",Variables declaration - do not modify//GEN-BEGIN:variables
+2798,534c8b3c167b7edcb46cbc4fcf7575b863f75c0b,11,SATD_REMOVED,TODO this option should disappear,None
+2802,07292f0e8bc2f2bfd5ca19678c056068324782f2,11,SATD_REMOVED,FIXME Esto tiene pinta de que deberÃ­a ir o en pageLeft o en Page:updateModel,None
+2841,3744cbf69b1ae27cbb5594a6c5cbededbe09bb0b,11,SATD_REMOVED,TODO take into account extBorderSize,None
+2857,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,FIXME Review,None
+2858,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,TODO Rename to IAttributeAdapter ?,None
+2860,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,FIXME Review,None
+2861,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,"it should be mime type then
+TODO check valid mime",Try with file extension first
+2862,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,"it should be mime type then
+TODO check valid mime",it should be mime type then
+2863,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_CHANGED,"it should be mime type then
+TODO check valid mime",TODO check valid mime
+2864,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,FIXME Review,None
+2865,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,TODO:,None
+2866,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,TODO runtime.log.logsystem.class <-> org.apache.velocity.runtime.log.LogChute,None
+2867,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,FIXME: external parameter,None
+2868,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,FIXME what if cache is disabled ?,None
+2869,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,TODO Enable save feature,None
+2870,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,FIXME,"change to fullscreen.
+hide everything"
+2871,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,FIXME,remove the frame from being displayable.
+2872,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,FIXME,remove borders around the frame
+2873,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,FIXME,make the window fullscreen.
+2874,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,FIXME,attempt to change the screen resolution.
+2875,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,FIXME,show the frame
+2876,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,FIXME,make sure that the screen is refreshed.
+2877,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,FIXME Esta clase tiene muy mala pinta !!!!!!!!!!!,None
+2878,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,"it should be mime type then
+TODO check valid mime",Try with file extension first
+2879,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,"it should be mime type then
+TODO check valid mime",it should be mime type then
+2880,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_CHANGED,"it should be mime type then
+TODO check valid mime",TODO check valid mime
+2885,2e6052942e6470ed05e1e956f30b2a480bd060e6,11,SATD_REMOVED,TODO: how to remove decorationCache for heatmaps being closed?,None
+2890,81bdf58b0c6cd364277f10b4f43c110c33463f3c,11,SATD_CHANGED,FIXME Put this in other place !!!,TODO Use PersistenceManager to save this file
+2891,81bdf58b0c6cd364277f10b4f43c110c33463f3c,11,SATD_CHANGED,FIXME Put this in other place !!!,TODO Use PersistenceManager
+2892,81bdf58b0c6cd364277f10b4f43c110c33463f3c,11,SATD_REMOVED,TODO check valid mime,Use the fileName if the user has not specify any format
+2893,81bdf58b0c6cd364277f10b4f43c110c33463f3c,11,SATD_REMOVED,TODO check valid mime,None
+2899,9634425e6e3cb0ff049445ecd866f014dd0ecb31,11,SATD_REMOVED,FIXME This shouldnt be here,None
+2900,9634425e6e3cb0ff049445ecd866f014dd0ecb31,11,SATD_REMOVED,TODO enablse save feature,None
+2901,9634425e6e3cb0ff049445ecd866f014dd0ecb31,11,SATD_REMOVED,"TODO: Heatmap should implement IMatrixView
+and handle movement and visibility synchronized
+between annotations, clusters and so on.",None
+2902,9634425e6e3cb0ff049445ecd866f014dd0ecb31,11,SATD_REMOVED,FIXME will cause null pointer exception but is unused ?,None
+2903,9634425e6e3cb0ff049445ecd866f014dd0ecb31,11,SATD_REMOVED,FIXME No funciona,None
+2904,9634425e6e3cb0ff049445ecd866f014dd0ecb31,11,SATD_REMOVED,FIXME,Generated values
+2905,9634425e6e3cb0ff049445ecd866f014dd0ecb31,11,SATD_REMOVED,FIXME,None
+2906,9634425e6e3cb0ff049445ecd866f014dd0ecb31,11,SATD_REMOVED,FIXME,None
+2907,9634425e6e3cb0ff049445ecd866f014dd0ecb31,11,SATD_REMOVED,FIXME,None
+2923,e6675d247b575224747d6e0db32264af2f3a1a13,11,SATD_REMOVED,TODO remove JAXB support,None
+2928,9acf37e4cc618ef1ff94a1b672052c10a3f4a142,11,SATD_REMOVED,TODO remove JAXB support,None
+2929,9acf37e4cc618ef1ff94a1b672052c10a3f4a142,11,CLASS_OR_METHOD_CHANGED,TODO: sort by label with all selected properties!,TODO: sort by label with all selected properties!
+2930,3d101873dd8a0a6a2e7deab4f702584f50adca16,11,SATD_REMOVED,TODO: needs fireproperty change? - one time action,None
+2944,ea8243bf6b5964ff0d7efb3c56a1127d793cafe6,11,SATD_REMOVED,TODO take into account extBorderSize,None
+2960,31874713c080e5ef5e3252564fd66fcae8f172cb,11,SATD_REMOVED,TODO shift selection,None
+2961,31874713c080e5ef5e3252564fd66fcae8f172cb,11,SATD_CHANGED,"FIXME should depend on screen size
+FIXME should depend on screen size","TODO should depend on screen size
+TODO should depend on screen size"
+2972,9a0e1f94e2873d19eb99400960598c8544f15934,11,SATD_REMOVED,TODO Parallelize,None
+2973,9a0e1f94e2873d19eb99400960598c8544f15934,11,SATD_REMOVED,TODO: place the cast in a different place: inside Group??,Group by value
+2974,9a0e1f94e2873d19eb99400960598c8544f15934,11,SATD_REMOVED,TODO This is temporal while we only manage Double matrix.,None
+3035,f11e5c2d8a56f5a493e6275255ad9fa0ed9f9699,11,SATD_REMOVED,"GEN-FIRST:event_testCboxActionPerformed
+TODO add your handling code here:
+GEN-LAST:event_testCboxActionPerformed",None
+3048,289ad23354a205193a8331b43aa2c687d9a5453c,11,SATD_REMOVED,TODO Parallelize,None
+3049,289ad23354a205193a8331b43aa2c687d9a5453c,11,SATD_REMOVED,TODO: place the cast in a different place: inside Group??,Group by value
+3050,289ad23354a205193a8331b43aa2c687d9a5453c,11,SATD_REMOVED,TODO This is temporal while we only manage Double matrix.,None
+3111,e92a56696fa854ca5a5af9f9735144ead97d1005,11,SATD_REMOVED,"GEN-FIRST:event_testCboxActionPerformed
+TODO add your handling code here:
+GEN-LAST:event_testCboxActionPerformed",None
+3124,85a97fa9c86444e59495afa4e54f1853f5672eb6,11,FILE_PATH_CHANGED,"sort group item indices
+FIXME this is redundant for diferent conditions","sort group item indices
+FIXME this is redundant for diferent conditions"
+3140,85a97fa9c86444e59495afa4e54f1853f5672eb6,11,FILE_PATH_CHANGED,"We do reflection from here on. Failure is silently ignored. The
+workaround is simply not installed when something goes wrong here","We do reflection from here on. Failure is silently ignored. The
+workaround is simply not installed when something goes wrong here"
+3141,85a97fa9c86444e59495afa4e54f1853f5672eb6,11,FILE_PATH_CHANGED,Fix the horizontal and vertical thickness of popup menu style,Fix the horizontal and vertical thickness of popup menu style
+3142,85a97fa9c86444e59495afa4e54f1853f5672eb6,11,FILE_PATH_CHANGED,Fix the vertical thickness of the popup menu separator style,Fix the vertical thickness of the popup menu separator style
+3143,85a97fa9c86444e59495afa4e54f1853f5672eb6,11,FILE_PATH_CHANGED,Silently ignored. Workaround cant be applied.,Silently ignored. Workaround cant be applied.
+3144,85a97fa9c86444e59495afa4e54f1853f5672eb6,11,FILE_PATH_CHANGED,GTK+ L&F keeps icons hidden in style,GTK+ L&F keeps icons hidden in style
+3149,85a97fa9c86444e59495afa4e54f1853f5672eb6,11,FILE_PATH_CHANGED,FIXME Use a default url,FIXME Use a default url
+3154,85a97fa9c86444e59495afa4e54f1853f5672eb6,11,FILE_PATH_CHANGED,TODO streamStack,TODO streamStack
+3155,85a97fa9c86444e59495afa4e54f1853f5672eb6,11,FILE_PATH_CHANGED,TODO parse contents and generate events,TODO parse contents and generate events
+3156,85a97fa9c86444e59495afa4e54f1853f5672eb6,11,FILE_PATH_CHANGED,TODO,TODO
+3172,85a97fa9c86444e59495afa4e54f1853f5672eb6,11,FILE_PATH_CHANGED,TODO status icon,TODO status icon
+3174,85a97fa9c86444e59495afa4e54f1853f5672eb6,11,FILE_PATH_CHANGED,"Somewhat silly class, needed to pass values between threads","Somewhat silly class, needed to pass values between threads"
+3179,85a97fa9c86444e59495afa4e54f1853f5672eb6,11,FILE_PATH_CHANGED,Instance is created once data in array values. This improves time performance,Instance is created once data in array values. This improves time performance
+3186,85a97fa9c86444e59495afa4e54f1853f5672eb6,11,FILE_PATH_CHANGED,FIXME: May be its better to return null ???,FIXME: May be its better to return null ???
+3187,85a97fa9c86444e59495afa4e54f1853f5672eb6,11,FILE_PATH_CHANGED,FIXME: Review,FIXME: Review
+3189,85a97fa9c86444e59495afa4e54f1853f5672eb6,11,FILE_PATH_CHANGED,Workaround for FTP problem connecting ftp.geneontology.org with URL.openStream(),Workaround for FTP problem connecting ftp.geneontology.org with URL.openStream()
+3287,6ed2f6276c493cac0406afaae2ebaa17266681fe,11,SATD_REMOVED,TODO: none conversion from where?,None
+3336,6fabefbd361ba6752a2cb0370499d001230c50df,11,SATD_REMOVED,TODO allow the default editor tab length to be configurable,None
+3337,6fabefbd361ba6752a2cb0370499d001230c50df,11,SATD_REMOVED,TODO: ADD ICON heatmap or analysis,None
+3362,77bc67c140424e035cfff16bbb2d49e44e232be3,11,SATD_REMOVED,TODO Deberia lanzar una excepciÃ³n?,None
+3405,23c19f39fc8e51eb39bf65685b1241433179bb1c,11,SATD_REMOVED,todo add via editor manager (Weld not working welll,None
+3408,1858897ad4efcac2e951eb34a5016c2360372a15,11,SATD_REMOVED,"GEN-FIRST:event_useAllRbActionPerformed
+TODO add your handling code here:
+GEN-LAST:event_useAllRbActionPerformed",None
+3409,1858897ad4efcac2e951eb34a5016c2360372a15,11,SATD_REMOVED,"GEN-FIRST:event_useSelectedRbActionPerformed
+TODO add your handling code here:
+GEN-LAST:event_useSelectedRbActionPerformed",None
+3517,9ac7147f1660af0b55167ff27fc3cc0de1cfaa85,12,SATD_REMOVED,"when translating lead/lag Functions.
+- Hold on to them in QueryTranslationInfo.
+- On the GenericUDFLeadLag object set a ExprNodeEvaluator
+- for this is a new ExprNodeEvaluator based on the 1st argument ExprNodeDesc
+- this means that the Lead/Lag expression is evaluated both for the current row and again for the correct row.
+- this is because no easy way to get to the children/defferedChildren instance variables on ExprNodeGenericFuncEvaluator
+- fixing this behavior requires extending ExprNodeGenericFuncEvaluator and reimplementing all methods
+- dont want to do this.
+- Todo(if possible): ask Hive guys to allow get/set on instance vars.","When constructing the Evaluator Tree from an ExprNode Tree
+- look for any descendant LeadLag Function Expressions
+- if they are found:
+- add them to the LLInfo.leadLagExprs and
+- add a mapping from the Expr Tree root to the LLFunc Expr in LLInfo.mapTopExprToLLFunExprs"
+3891,7d56c27f80006d358d0379fd1915b365d1308b24,9,SATD_REMOVED,TODO: Round-robin ?,None
+3895,4890e9ef27ec5abdc71cab8c5d13c5ebefbbfda1,9,SATD_REMOVED,TODO: Patch apacheds to support AAAA records,None
+3906,27599592cef11d2ae6301032bef2188a91af432f,9,SATD_REMOVED,"TODO not one verticle factory per module ref, but one per language per module ref",None
+3907,27599592cef11d2ae6301032bef2188a91af432f,9,SATD_REMOVED,"Theres now a workaround due to dodgy classloading in Jython
+https://github.com/vert-x/mod-lang-jython/issues/7
+It seems that Jython doesnt always ask the correct classloader to load resources from modules
+to workaround this we can, if the resource is not found, and the TCCL is different from this classloader
+to ask the TCCL to load the class - the TCCL should always be set to the moduleclassloader of the actual
+module doing the import",None
+3909,8050cbeba88719721851d29359f5aff64275ef5d,9,SATD_REMOVED,TODO I think this can be simplified / optimised,None
+3912,60eb905d602ebc3f80884697d723a57a9af31a77,9,SATD_REMOVED,this is the most expensive way so do it as last resort,None
+3951,55dbc8987f0facfb9b73bfa6f9dff01f210a43bd,9,SATD_REMOVED,TODO - do we really need this?,None
+3965,ff901289001d37e9a87c41a8624c73be06051442,9,SATD_REMOVED,FIXME - is this really pipeliing?,None
+3966,ff901289001d37e9a87c41a8624c73be06051442,9,CLASS_OR_METHOD_CHANGED,"We write the response back after a random time to increase the chances of responses written in the
+wrong order if we didn't implement pipelining correctly","We write the response back after a random time to increase the chances of responses written in the
+wrong order if we didn't implement pipelining correctly"
+3976,8bf0bfa4cceec4be6eb99486c5d7d03e0e6cc262,9,SATD_REMOVED,FIXME - make sure this is right and get rid of worker param,None
+3984,7fa1deeaf915cff60f7c3e3ba4733a343c8c398f,9,SATD_REMOVED,TODO: maybe use a special exception ?,None
+4019,7c9ec1cb78aa50f1e12a0542ed8f1dab8859e5bb,9,SATD_REMOVED,FIXME - seems a bit clunky. Is there a better way?,None
+4114,bc580b314ba66e5d358ad6a9b6bf0d8c431543d9,9,SATD_REMOVED,TODO - shouldnt this be -1 ??,None
+4135,d1467a3638328098e4a76ee13a75e633fc6b8665,9,SATD_REMOVED,TODO shouldnt this be run async?,None
+4136,d1467a3638328098e4a76ee13a75e633fc6b8665,9,SATD_REMOVED,"FIXME - workaround for https://github.com/netty/netty/issues/2586
+If listen already succeeded on a different event loop, and then addListener is called again
+on the completed future from a different event loop then the handler will be called on the original
+event loop not on the when that called addListener.
+To reproduce set the boolean parameter on execute (below) to true.
+Then run Httptest.testTwoServersSameAddressDifferentContext()",No handler - log so user can see failure
+4140,d1467a3638328098e4a76ee13a75e633fc6b8665,9,FILE_PATH_CHANGED,TODO make this configurable,TODO make this configurable
+4174,d8e4ea95c2ed0d6a625554a8a37865ff720ef403,9,SATD_REMOVED,Moved in 1xPool,None
+4175,d8e4ea95c2ed0d6a625554a8a37865ff720ef403,9,SATD_REMOVED,Todo in the other pool ???,None
+4176,d8e4ea95c2ed0d6a625554a8a37865ff720ef403,9,CLASS_OR_METHOD_CHANGED,Handle this case better,Handle this case better
+4177,d8e4ea95c2ed0d6a625554a8a37865ff720ef403,9,CLASS_OR_METHOD_CHANGED,Maybe the connection can be reused,Maybe the connection can be reused
+4178,d8e4ea95c2ed0d6a625554a8a37865ff720ef403,9,CLASS_OR_METHOD_CHANGED,Todo :  limit according to the max concurrency of the stream,Todo :  limit according to the max concurrency of the stream
+4179,d8e4ea95c2ed0d6a625554a8a37865ff720ef403,9,CLASS_OR_METHOD_CHANGED,TODO,TODO
+4180,d8e4ea95c2ed0d6a625554a8a37865ff720ef403,9,SATD_REMOVED,"Perhaps its possible to remove this with writeBuffer(buf, true) instead",None
+4184,0d94a8123a35f0224a7eac961768285a7ecfdc85,9,SATD_REMOVED,Todo :  limit according to the max concurrency of the stream,Should make same tests than in deliverRequest
+4192,7021b66a67d5e0aa04b8444b3718edd1e64ec598,9,SATD_REMOVED,Handle this case better,None
+4237,0d3aec1fa33ff211b2a59afd08f45954a94e4f8d,9,SATD_REMOVED,TODO some way of getting this from the version in pom.xml,None
+4256,005c4cad382adb4202ea5dc27867fff7f5f51e08,9,SATD_REMOVED,todo: later switch to PoolMetrics,None
+4257,005c4cad382adb4202ea5dc27867fff7f5f51e08,9,SATD_REMOVED,todo: fix when reworking pool metrics,None
+4260,a6ce43139f3dbdfcbb63d02ae667cba1ee044058,9,SATD_REMOVED,queuing == true <=> (paused || (pendingResponse != null && msg instanceof HttpRequest) || !pending.isEmpty()),None
+4261,a6ce43139f3dbdfcbb63d02ae667cba1ee044058,9,CLASS_OR_METHOD_CHANGED,TODO chunk trailers,TODO chunk trailers
+4264,13b09b1fe035ca7e1a23d23a4b4b87edb14a35bf,9,SATD_REMOVED,"We do the initial check outside the synchronized block to prevent the hit of synchronized once the conn has
+been set",None
+4265,7e69bebe6009cc32e0d40fcbfa6946e8e6d41f8f,9,SATD_REMOVED,TODO Can we get rid of this?,None
+4267,c5141b668fe18b6f18f3832bb4972559b8e0753c,9,SATD_REMOVED,Should take care of pending list ????,None
+4271,31a3d466af9d23bff3596cb600f8ee4445c0b20c,9,SATD_REMOVED,TODO check if .replace(wsFrame.getBinaryData()) is really needed,None
+4305,471b3a32fb3567eb963c4fa4ffd9957440b64c7c,9,SATD_REMOVED,"TODO:  Check if the given address is a valid ip address before pass it to InetAddres.getByName(..)
+This is need as otherwise it may try to perform a DNS lookup.
+An other option would be to change address to be of type InetAddress.",None
+4332,1eb45a93a354902c1a131380f00cb9f4e0b8e5dd,9,SATD_REMOVED,"todo: should be renamed equest after",None
+4333,1eb45a93a354902c1a131380f00cb9f4e0b8e5dd,9,SATD_REMOVED,FIX THIS WORKAROUND,None
+8309,293b2003b6b832f28d0e10d81cb048d98fb3217d,13,CLASS_OR_METHOD_CHANGED,FIXME make sure a optimized mock is provided when no constraints are present.,FIXME make sure a optimized mock is provided when no constraints are present.
+8310,293b2003b6b832f28d0e10d81cb048d98fb3217d,13,SATD_REMOVED,TODO remove,None
+8318,f2454f466786477ae71cd0d4a175b31dd7753ed8,13,SATD_REMOVED,TODO caching the object class is useful?,None
+8319,f2454f466786477ae71cd0d4a175b31dd7753ed8,13,SATD_REMOVED,TODO move to Factory at least,None
+8320,f2454f466786477ae71cd0d4a175b31dd7753ed8,13,SATD_REMOVED,todo - implement,None
+8321,f2454f466786477ae71cd0d4a175b31dd7753ed8,13,SATD_REMOVED,TODO should not be Hibernate specific in most case,None
+8322,f2454f466786477ae71cd0d4a175b31dd7753ed8,13,SATD_REMOVED,TODO should not be Hibernate specific in most case,None
+8323,46816d670a53bb5685cfd0ee419efcbd4187b508,13,SATD_REMOVED,"FIXME change accessibility only once, that's somewhat costly. do it when Member is created",None
+8324,0657c2204ddb4013b69be75b5fa9a512d522ca42,13,SATD_MOVED_FILE,FIXME use error.getProperty(),FIXME use error.getProperty()
+8325,0657c2204ddb4013b69be75b5fa9a512d522ca42,13,SATD_REMOVED,FIXME why is this a null group!! Used to be \ string should it be Default. Looks weird,None
+8339,ab9d89e5cdf5b42b0ea5afb1507f236db9a13613,13,CLASS_OR_METHOD_CHANGED,FIXME do choose the right validator depending on the object validated,FIXME do choose the right validator depending on the object validated
+8340,ab9d89e5cdf5b42b0ea5afb1507f236db9a13613,13,FILE_PATH_CHANGED,FIXME not sure why it is like that. We should cache these instances somehow. Static?,FIXME not sure why it is like that. We should cache these instances somehow. Static?
+8341,ab9d89e5cdf5b42b0ea5afb1507f236db9a13613,13,SATD_REMOVED,TODO is there a way to replace ? by so kind of <T> to express the correlation?,None
+8342,ab9d89e5cdf5b42b0ea5afb1507f236db9a13613,13,SATD_REMOVED,FIXME make sure a optimized mock is provided when no constraints are present.,None
+8343,ab9d89e5cdf5b42b0ea5afb1507f236db9a13613,13,FILE_PATH_CHANGED,"FIXME I implement both interfaces on the same object as a quick hack, we need to fix that.","FIXME I implement both interfaces on the same object as a quick hack, we need to fix that."
+8344,ab9d89e5cdf5b42b0ea5afb1507f236db9a13613,13,FILE_PATH_CHANGED,TODObe more contextually specific,TODObe more contextually specific
+8345,ab9d89e5cdf5b42b0ea5afb1507f236db9a13613,13,FILE_PATH_CHANGED,FIXME throw assertion exception if constraintValidatorType == null,FIXME throw assertion exception if constraintValidatorType == null
+8346,ab9d89e5cdf5b42b0ea5afb1507f236db9a13613,13,FILE_PATH_CHANGED,FIXME raise an exception if validatorType is not a class,FIXME raise an exception if validatorType is not a class
+8347,ab9d89e5cdf5b42b0ea5afb1507f236db9a13613,13,FILE_PATH_CHANGED,FIXME throw assertion exception if constraintValidatorType == null,FIXME throw assertion exception if constraintValidatorType == null
+8348,ab9d89e5cdf5b42b0ea5afb1507f236db9a13613,13,FILE_PATH_CHANGED,FIXME raise an exception if validatorType is not a class,FIXME raise an exception if validatorType is not a class
+8349,ab9d89e5cdf5b42b0ea5afb1507f236db9a13613,13,FILE_PATH_CHANGED,else we dont care I think,else we dont care I think
+8352,9a6f2fcb241a22a99f7a75516da4ee13ef777ac3,13,SATD_REMOVED,TODO make it a list,None
+8353,9a6f2fcb241a22a99f7a75516da4ee13ef777ac3,13,SATD_REMOVED,"FIXME do make it truely multivalidators
+FIXME dont rely on properties files, what's the point",None
+8354,a1a859e2f944605c5d14938c363af28ad71b69b1,13,SATD_REMOVED,FIXME do choose the right validator depending on the object validated,None
+8355,a1a859e2f944605c5d14938c363af28ad71b69b1,13,SATD_REMOVED,TODObe more contextually specific,None
+8376,b81688f736fa3128c3d9ee6bc427c291796ec680,13,SATD_REMOVED,FIXME use error.getProperty(),None
+8379,169b045a6e4607dab10f0877f7aa550e2c4a0094,13,SATD_REMOVED,"FIXME I implement both interfaces on the same object as a quick hack, we need to fix that.",None
+8382,6f381a2a3eacfb8930020b6f2a2c32a9b0c40c90,13,SATD_REMOVED,TODO are we sure a @Constraint is there?,None
+8385,067d3e0323a24f2983b6628d33dc8513da874bfe,13,SATD_REMOVED,"FIXME This sounds really bad, why value can be null. Why are we deciding of the validator based on the value?",None
+8388,b2852b91c217fb222c132c08d2a38fd52859b976,13,SATD_REMOVED,TODO Is this corect or should we get a IllegalArgumentException,None
+8402,1a45381702d639fd2650ddb40078e1f74111d4ad,13,SATD_REMOVED,FIXME isValidationRequired for all constraints in a given context May need to divide by elementType,None
+8403,1a45381702d639fd2650ddb40078e1f74111d4ad,13,SATD_REMOVED,FIXME isValidationRequired for all constraints in a given context May need to divide by elementType,None
+8404,1a45381702d639fd2650ddb40078e1f74111d4ad,13,SATD_REMOVED,TODO add test with correct paths and types to make sure the impl does not mess it up,None
+8420,471d4b4bb414b7d810e5abd4a0bd6e308f61467f,13,SATD_REMOVED,"use metadata first as ReflectionHelper#containsMember is slow
+TODO store some metadata here?",use metadata first as ReflectionHelper#containsMember is slow
+8421,471d4b4bb414b7d810e5abd4a0bd6e308f61467f,13,SATD_REMOVED,TODO better error report,use metadata first as ReflectionHelper#containsMember is slow
+8458,a5ca6ba32436aa872cb7471e934d68270c1aa0ed,13,SATD_REMOVED,"FIXME its probably better to use String as a key rather than Method
+to speed up and avoid any fancy permsize/GC issue
+I'd better check the litterature on the subject",None
+8477,da9f48f3fa132b96392d80298f12ec2c3fb140c7,13,SATD_REMOVED,"TODO round 34ms to generate the proxy, hug! is Javassist Faster?",None
+8481,400537471dd25554305e2de237f195828a3e05f1,13,SATD_REMOVED,"TODO dont quite understand this warning
+TODO assuming U.getClass() returns Class<U>",None
+8508,be5e0f08a614215788d68791701deddc6625ba6e,13,CLASS_OR_METHOD_CHANGED,TODO GM: is it possible to use the existing context here?,TODO GM: is it possible to use the existing context here?
+8509,be5e0f08a614215788d68791701deddc6625ba6e,13,CLASS_OR_METHOD_CHANGED,TODO GM: evaluate group sequences,TODO GM: evaluate group sequences
+8510,726950a5e1ec454341ab3fdcd04a9579c6fb9550,13,SATD_REMOVED,TODO GM: is it possible to use the existing context here?,None
+8511,726950a5e1ec454341ab3fdcd04a9579c6fb9550,13,CLASS_OR_METHOD_CHANGED,TODO GM: evaluate group sequences,TODO GM: evaluate group sequences
+8513,1c12c806842dada6f4182f79dc11ca63688c4207,13,CLASS_OR_METHOD_CHANGED,TODO GM: is that right?,TODO GM: is that right?
+8514,1c12c806842dada6f4182f79dc11ca63688c4207,13,CLASS_OR_METHOD_CHANGED,TODO GM: is that right?,TODO GM: is that right?
+8515,1c12c806842dada6f4182f79dc11ca63688c4207,13,SATD_REMOVED,TODO GM: parametrize with type of constraint site,None
+8524,ea03113a6f5778d9499fc4a7ea3959d381771f9a,13,SATD_REMOVED,"TODO GM: this should be pulled out so that a group is processed over all evaluated
+parameters before going to the next group. In the current form the group order seems
+pretty counter-intuitive","TODO GM: define behavior with respect to redefined default sequences. Should only the
+sequence from the validated bean be honored or also default sequence definitions up in
+the inheritance tree?"
+8530,2d68a5c976f369222a79ddfa021ff7d32f34a4ed,13,SATD_REMOVED,TODO GM: This does not work. The parameter index is lost that way.,None
+8545,e6b7a53cdedaea347cc5a4ed151935a8705aa736,13,SATD_REMOVED,TODO GM: is that right?,None
+8546,e6b7a53cdedaea347cc5a4ed151935a8705aa736,13,SATD_REMOVED,TODO GM: is that right?,None
+8550,dadafe9a72d7c055caa38d6de320e22fbf5207c9,13,SATD_REMOVED,"maybe the given method is one not defined on the type represented by this bean
+meta data object but up in the hierarchy, so search using the method signature",None
+8555,5e02adfa9c4f7d8ded9c623828e534c36541abcf,13,SATD_REMOVED,TODO GM: avoid this cast,None
+8556,0e18708efad41369fb2a939f9202cc04e7e6a7a9,13,SATD_REMOVED,"Note on visibility of members: These members are intentionally made
+package-private instead of private. They are only referenced in this
+package and there shouldnt be public getters as they would pollute
+the fluent definition API","Note on visibility of members: These members are intentionally made
+protected and published by a sub-class for internal use. There aren't
+public getters as they would pollute the fluent definition API."
+8571,763d96171589dc79b37fb943c67704fc6722c45e,13,SATD_MOVED_FILE,TODO GM: Determine which default sequence should be taken,TODO GM: Determine which default sequence should be taken
+8572,763d96171589dc79b37fb943c67704fc6722c45e,13,SATD_MOVED_FILE,TODO GM: Determine which default sequence provider should be taken,TODO GM: Determine which default sequence provider should be taken
+8573,763d96171589dc79b37fb943c67704fc6722c45e,13,SATD_REMOVED,TODO GM: can this be merged with cache?,None
+8574,763d96171589dc79b37fb943c67704fc6722c45e,13,SATD_REMOVED,"TODO GM: merge, if also programmatic provider has this option",None
+8575,763d96171589dc79b37fb943c67704fc6722c45e,13,CLASS_OR_METHOD_CHANGED,"TODO GM: merge, if also programmatic provider has this option","TODO GM: merge, if also programmatic provider has this option"
+8576,763d96171589dc79b37fb943c67704fc6722c45e,13,SATD_REMOVED,TODO GM: dont retrieve annotation meta data several times per type,None
+8583,2f0067a04bc826e78c9f5809e9b921972cebeda7,13,SATD_REMOVED,"TODO GM: it would be nicer if PropertyMetaData itself could create an equivalent PropertyDescriptor.
+Currently this doesnt work as the descriptor needs a reference to the BeanMetaData object.",None
+8704,ced789defe6e2ab338d85b70437ca6f83a7af021,13,SATD_REMOVED,TODO HV-571,None
+8705,ced789defe6e2ab338d85b70437ca6f83a7af021,13,SATD_REMOVED,"TODO GM: to be compatible with getConstraintsForProperty() this method should only return
+a descriptor if the given method is constrained.",None
+8722,3d8191d2e824d827057c61487cb83062e5ba411e,13,SATD_REMOVED,TODO HV-571,None
+8723,3d8191d2e824d827057c61487cb83062e5ba411e,13,SATD_REMOVED,todo check the use of generics in this method. it really does not make sense - HF,None
+8727,211933875a81ceb924afb29ae682ab140c4d6041,13,SATD_REMOVED,TODO - why can this be null (HF),None
+8728,211933875a81ceb924afb29ae682ab140c4d6041,13,SATD_REMOVED,TODO -  propertyDescriptor.getElementClass() returns eg just Collection instead of the element type (HF),None
+8729,211933875a81ceb924afb29ae682ab140c4d6041,13,CLASS_OR_METHOD_CHANGED,TODO -  propertyDescriptor.getElementClass() returns eg just Collection instead of the element type (HF),TODO -  propertyDescriptor.getElementClass() returns eg just Collection instead of the element type (HF)
+8730,bc4a0111622d7f5061b95761e13b080432df3126,13,SATD_REMOVED,TODO -  propertyDescriptor.getElementClass() returns eg just Collection instead of the element type (HF),None
+8742,8e0911a9f73d0ea166fa3a1bf19735dbff997c7f,13,SATD_REMOVED,TODO - autsch (HF),"property descriptor can be null if for example the ConstraintValidatorContext#ConstraintViolationBuilder
+API is used. See BVAL-288 (HF)"
+8743,8e0911a9f73d0ea166fa3a1bf19735dbff997c7f,13,SATD_REMOVED,TODO - for now just a setter. maybe add a copy constructor later (HF),None
+8751,c692feb9dae9b53e37f77d15f320dfb70f0c88e6,13,SATD_REMOVED,TODO: create internal implementation and return this,None
+8762,f2a7a6a70b8c08c42d24304a1a46079cc5a1e54d,13,CLASS_OR_METHOD_CHANGED,"TODO - iterating over the members seems to be expensive. Need to check whether we can have a better
+data structure in BeanMetaData (HF)","TODO - iterating over the members seems to be expensive. Need to check whether we can have a better
+data structure in BeanMetaData (HF)"
+8763,f2a7a6a70b8c08c42d24304a1a46079cc5a1e54d,13,SATD_REMOVED,TODO - HV-571,None
+8764,f2a7a6a70b8c08c42d24304a1a46079cc5a1e54d,13,SATD_REMOVED,TODO - HV-571,None
+8765,f2a7a6a70b8c08c42d24304a1a46079cc5a1e54d,13,SATD_REMOVED,TODO - HV-571,None
+8766,f2a7a6a70b8c08c42d24304a1a46079cc5a1e54d,13,SATD_REMOVED,TODO - HV-571,first node is method descriptor
+8767,f2a7a6a70b8c08c42d24304a1a46079cc5a1e54d,13,SATD_REMOVED,"TODO - iterating over the members seems to be expensive. Need to check whether we can have a better
+data structure in BeanMetaData (HF)",None
+8796,53f6e5d2eeaafda4acccf292bd65a3ed9df5c209,13,SATD_REMOVED,TODO - add @MethodValidated programmatically where needed,None
+8803,eb8690f16bc2e2f2d21046b6132658d9eb2cebcb,13,SATD_REMOVED,"TODO - iterating over the members seems to be expensive. Need to check whether we can have a better
+data structure in BeanMetaData (HF)",None
+8804,eb8690f16bc2e2f2d21046b6132658d9eb2cebcb,13,SATD_REMOVED,"TODO - iterating over the members seems to be expensive. Need to check whether we can have a better
+data structure in BeanMetaData (HF)",None
+8806,330991ffa80f75d90dc175b09b9ef2c9f1e25ae9,13,SATD_REMOVED,TODO HV-571: Avoid these casts,None
+8807,330991ffa80f75d90dc175b09b9ef2c9f1e25ae9,13,SATD_REMOVED,TODO HV-632: Use JBoss Logging,None
+8808,330991ffa80f75d90dc175b09b9ef2c9f1e25ae9,13,SATD_REMOVED,"TODO HV-571: Discuss whether ConstructorDescriptor and MethodDescriptor should really extend ElementDescriptor.
+Methods as getConstraintDescriptors() or findConstraints() seem really useful only on ReturnValueDescriptor
+and ParameterDescriptor.",None
+8810,330991ffa80f75d90dc175b09b9ef2c9f1e25ae9,13,SATD_REMOVED,TODO HV-632: What path to take here?,None
+8814,112aa0f3afd4870db06490645b25e9fbd3a463aa,13,SATD_REMOVED,TODO GM: consider violations from cascaded validation,None
+8815,112aa0f3afd4870db06490645b25e9fbd3a463aa,13,SATD_REMOVED,TODO HV-638: Use JBoss logging,None
+8816,112aa0f3afd4870db06490645b25e9fbd3a463aa,13,SATD_REMOVED,TODO HV-638: Fails when using j.u.Set as parameter type,None
+8817,112aa0f3afd4870db06490645b25e9fbd3a463aa,13,SATD_REMOVED,TODO GM: I think the wrong element type is used for constructor constraints,None
+8856,eab67da9232b0c8c079a8e0aa5c55d28b5793de8,13,FILE_PATH_CHANGED,TODO HV-571: Add tests where runtime type differs between elements in cascaded list,TODO HV-571: Add tests where runtime type differs between elements in cascaded list
+8857,eab67da9232b0c8c079a8e0aa5c55d28b5793de8,13,SATD_REMOVED,TODO assert parameter types?,None
+8875,d24b71072f9a936bf5c7c60eef7e5a9babe3f600,13,SATD_REMOVED,TODO Can be made transient since it is only used during object construction. It would be better if we would not have to pass it at all,None
+8876,d24b71072f9a936bf5c7c60eef7e5a9babe3f600,13,SATD_REMOVED,TODO be extra safe and make sure this is an array of Payload,None
+8877,d24b71072f9a936bf5c7c60eef7e5a9babe3f600,13,SATD_REMOVED,"TODO - implement https://hibernate.onjira.com/browse/HV-720
+Class<? extends ConstraintValidator<?, ?>> validatedBy = annotationType
+.getAnnotation( CrossParameterConstraint.class )",None
+8878,d24b71072f9a936bf5c7c60eef7e5a9babe3f600,13,SATD_REMOVED,TODO - implement https://hibernate.onjira.com/browse/HV-720,None
+8879,d24b71072f9a936bf5c7c60eef7e5a9babe3f600,13,SATD_REMOVED,TODO - https://hibernate.onjira.com/browse/HV-720 verify test,None
+8880,d24b71072f9a936bf5c7c60eef7e5a9babe3f600,13,SATD_REMOVED,TODO - https://hibernate.onjira.com/browse/HV-720 verify test,None
+8881,d24b71072f9a936bf5c7c60eef7e5a9babe3f600,13,SATD_REMOVED,TODO HV-571,None
+8882,d24b71072f9a936bf5c7c60eef7e5a9babe3f600,13,SATD_REMOVED,TODO HV-571,None
+8883,d24b71072f9a936bf5c7c60eef7e5a9babe3f600,13,SATD_REMOVED,TODO - https://hibernate.onjira.com/browse/HV-720 verify test,None
+8920,967507a0c80ac2e9c2b86c506edafdee6a40caa9,13,SATD_REMOVED,TODO we need to take @ValidateExecutable into account as well,None
+8938,4d445543c46e20bdd45682fa146d2a689d01f6ea,13,SATD_REMOVED,TODO re-use shared instance,None
+8970,5aa61e2bfcbe963de20daa9d2d6f0b405e307705,13,SATD_REMOVED,explicitly set the value handler to null. Is there a better place to do this? (HF),None
+8973,24c0f4931a4502ee444f01e5909905bd95d84474,13,SATD_REMOVED,for the sake of better reporting we unwrap if there is a unwrapper in the context,None
+8981,13e8edb1c8f48eba87cba418af5f217efe0d4a5f,13,SATD_REMOVED,"if we have a trailing dot in local or domain part we have an invalid email address.
+the regular expression match would take care of this, but IDN.toASCII drops the trailing
+(imo a bug in the implementation)",None
+8984,e90fea5f5704b1b1f8c657a51fc2f9bde6f8380f,13,SATD_REMOVED,TODO Remove once the original one supports TYPE_USE,None
+8985,861d37f254f362be353b334ba21890e4e88eafc6,13,SATD_REMOVED,TODO graphs needs to be generated and deeper,None
+9017,cab50dbebd3137e6bb247ab1f9a0ecbdf12650fe,13,CLASS_OR_METHOD_CHANGED,TODO switch to proper multi key map (HF),TODO switch to proper multi key map (HF)
+9018,cab50dbebd3137e6bb247ab1f9a0ecbdf12650fe,13,SATD_REMOVED,TODO remove legacy unwrap implementation,None
+9031,4afcf11921d1b29714b45a4817e59cba8d9559be,13,SATD_REMOVED,TODO - Is this the right way of handling the merge of unwrapMode? (HF),None
+9032,4afcf11921d1b29714b45a4817e59cba8d9559be,13,SATD_REMOVED,TODO implicit unwrapping not supported,None
+9033,4afcf11921d1b29714b45a4817e59cba8d9559be,13,FILE_PATH_CHANGED,TODO implicit unwrapping not supported for now,TODO implicit unwrapping not supported for now
+9035,4afcf11921d1b29714b45a4817e59cba8d9559be,13,SATD_REMOVED,TODO - Is this the right way of handling the merge of unwrapMode? (HF),None
+9037,4afcf11921d1b29714b45a4817e59cba8d9559be,13,SATD_REMOVED,TODO: applying to the wrapper by default seems legit,None
+9065,cf6fd9e33e5ed863f8f49d78e0666b7cbbf2c3ff,13,SATD_REMOVED,TODO prevent duplicates,None
+9066,cf6fd9e33e5ed863f8f49d78e0666b7cbbf2c3ff,13,SATD_CHANGED,"TODO
+keep most specific one
+if several extractors are found for the most specific type, e.g. key and value extractors for Map, raise an exception","TODO
+if several extractors are found for the most specific type, e.g. key and value extractors for Map, raise an exception"
+9067,cf6fd9e33e5ed863f8f49d78e0666b7cbbf2c3ff,13,SATD_CHANGED,TODO implement selection of most specific extractor per requested type parameter,TODO
+9068,cf6fd9e33e5ed863f8f49d78e0666b7cbbf2c3ff,13,SATD_REMOVED,TODO should only happen during transition off value unwrappers,None
+9070,c1baee9184d8ab35a7dd3b87180fa9a8806860be,13,SATD_REMOVED,TODO HV-1245 this should be TYPE_USE once its included in BV,None
+9071,c1baee9184d8ab35a7dd3b87180fa9a8806860be,13,SATD_REMOVED,TODO HV-1245 this should be TYPE_USE once its included in BV,None
+9072,8c0c9f6536a8fc0e19aed52d8f9a247c72325384,13,SATD_REMOVED,TODO HV-919 Support specification of type parameter constraints via XML and API,None
+9073,a46e7b2d9f6b86161f74679c8203a2413159a162,13,SATD_REMOVED,TODO HV-919 Support specification of type parameter constraints via XML and API,None
+9077,f9b7e7640112ef839eb5450ce93709e9c11fb32e,13,SATD_REMOVED,TODO HV-919 Support specification of type parameter constraints via XML and API,None
+9082,d17a8e05e7779e848c386cc4934dfc82735e7c91,13,SATD_REMOVED,"TODO
+if several extractors are found for the most specific type, e.g. key and value extractors for Map, raise an exception",None
+9083,d17a8e05e7779e848c386cc4934dfc82735e7c91,13,SATD_REMOVED,TODO,None
+9087,fa23c429c991e1cfbe5c7ce0ba47f373afb469fb,13,SATD_REMOVED,TODO which one to use ???,None
+9103,68f1332356096bdb0aff919df6a7f9b62d1d8099,13,SATD_REMOVED,"collect all type parameters of the sub-type that map to the given type parameter of the super-type
+TODO should only be null until migrated off of value unwrappers",None
+9106,06d6fd2982b61f3061f15d1e9d0f71fb51799a3c,13,SATD_REMOVED,TODO be extra safe and make sure this is an array of Payload,None
+9109,4aba1964389d102a512471e3b47fabc50d6a16c4,13,SATD_REMOVED,TODO: need to find a way to check for unwrapping,None
+9115,4929630e828b8b2c8ea1a350c59c7e8d4864efc9,13,SATD_REMOVED,TODO: should ScriptEvaluator be cached ?,None
+9116,4929630e828b8b2c8ea1a350c59c7e8d4864efc9,13,SATD_REMOVED,TODO: need to change xml,None
+9117,4929630e828b8b2c8ea1a350c59c7e8d4864efc9,13,SATD_REMOVED,TODO: implement,None
+9118,b9fcd67034a9e702a6b802946f4b63bc5d312941,13,SATD_REMOVED,"We only enable this optimization if the security manager is not enabled. Otherwise,
+we would have to add every package containing constraints to the security policy.",None
+9119,b9fcd67034a9e702a6b802946f4b63bc5d312941,13,CLASS_OR_METHOD_CHANGED,"We only enable this optimization if the security manager is not enabled. Otherwise,
+we would have to add every package containing constraints to the security policy.","We only enable this optimization if the security manager is not enabled. Otherwise,
+we would have to add every package containing constraints to the security policy."
+9129,9e0626b8318ba4bdf55580aacae3947410278129,13,SATD_REMOVED,TODO: For BVAL-214 we'd get the value from a map or another alternative structure instead,None
+11355,8b7e30892202ee649af881bfd4c23e3d89777541,3,SATD_REMOVED,@todo if we have SNAPSHOT version should we do something special?,None
+11356,8b7e30892202ee649af881bfd4c23e3d89777541,3,SATD_REMOVED,"dependecy.setGroupid( groupId )
+....
+MavenArtifact artifact = artifactFactory.createArtifact( dependecy )
+
+so maven artifact factory will be centralized service for creating
+repository paths
+
+I am not sure if this is good option but it is something which might be considered",None
+11357,8b7e30892202ee649af881bfd4c23e3d89777541,3,SATD_REMOVED,@todo what shall we do when jar was installed but we failed to install pom?,None
+11358,8b7e30892202ee649af881bfd4c23e3d89777541,3,SATD_REMOVED,"@todo do we need to crate md5 checksums in local repsitory?
+I think it would be nice if any local repository could be
+and at any moment in time used as remote repository
+so content of both repositories should be symetrical",None
+11359,8b7e30892202ee649af881bfd4c23e3d89777541,3,SATD_REMOVED,@todo should we use plexus classes?,None
+11360,8b7e30892202ee649af881bfd4c23e3d89777541,3,SATD_REMOVED,@todo we can use as well file wagon here.,None
+11393,ebbd74a8445e95c5243712d1b95982177182b890,3,SATD_REMOVED,"@todo this will be duplicated in case of every mojo which implements
+deploy goal
+this should be pushed into the ArtifactDeployer component",None
+11395,ebbd74a8445e95c5243712d1b95982177182b890,3,SATD_REMOVED,TODO: validation instead,None
+11397,19170fc0949a195062328538e64f4066a46657b4,3,SATD_REMOVED,TODO: doesnt appear to be called,None
+11398,ebbd74a8445e95c5243712d1b95982177182b890,3,SATD_REMOVED,TODO: simple failure response,None
+11430,1eae4e65dfc37a4e88b9c97186375a9d3cde5e4a,3,SATD_CHANGED,"TODO: include dependencies marked for distribution under certain formats
+TODO: how, might we plugin this into an installer, such as NSIS?
+TODO: allow file mode specifications?","TODO: include dependencies marked for distribution under certain formats
+TODO: how, might we plug this into an installer, such as NSIS?
+TODO: allow file mode specifications?"
+11431,1eae4e65dfc37a4e88b9c97186375a9d3cde5e4a,3,SATD_REMOVED,TODO: this needs a cleanup in plexus archiver - use a real typesafe enum,None
+11432,1eae4e65dfc37a4e88b9c97186375a9d3cde5e4a,3,SATD_REMOVED,TODO: this should accept gz and bz2 as well so we can skip over the switch,None
+11433,1eae4e65dfc37a4e88b9c97186375a9d3cde5e4a,3,SATD_REMOVED,TODO: better handling,None
+11436,1eae4e65dfc37a4e88b9c97186375a9d3cde5e4a,3,SATD_REMOVED,TODO: use MavenArchiver for manifest?,None
+11439,1eae4e65dfc37a4e88b9c97186375a9d3cde5e4a,3,SATD_CHANGED,TODO: shouldnt archiver do this?,TODO: default excludes should be in the archiver?
+11442,1eae4e65dfc37a4e88b9c97186375a9d3cde5e4a,3,SATD_REMOVED,TODO: shouldnt archiver do this?,CVS
+11445,1eae4e65dfc37a4e88b9c97186375a9d3cde5e4a,3,SATD_REMOVED,TODO: shouldnt archiver do this?,SCCS
+11448,1eae4e65dfc37a4e88b9c97186375a9d3cde5e4a,3,SATD_REMOVED,TODO: shouldnt archiver do this?,Visual SourceSafe
+11451,1eae4e65dfc37a4e88b9c97186375a9d3cde5e4a,3,SATD_REMOVED,TODO: shouldnt archiver do this?,Subversion
+11453,1eae4e65dfc37a4e88b9c97186375a9d3cde5e4a,3,SATD_REMOVED,TODO: shouldnt archiver do this?,Mac
+11456,1eae4e65dfc37a4e88b9c97186375a9d3cde5e4a,3,SATD_CHANGED,TODO: shouldnt archiver do this?,TODO: move to maven-artifact - generally useful
+11459,1eae4e65dfc37a4e88b9c97186375a9d3cde5e4a,3,SATD_REMOVED,TODO: default excludes?,None
+11554,e3d22bcc253e5bf048dd10726e851ab218692261,3,SATD_REMOVED,TODO: Use multiple locale with a loop,None
+11575,d137af63f799351e38a0374005fa399ca0e67d1f,3,SATD_REMOVED,"TODO: In this case, should we rather just replace the existing plugin mapping??",None
+11652,b245d03078aab80e63cc68fee8c4a1503a73b9d5,3,SATD_REMOVED,"TODO: I removed outputDirectory, and shouldnt have. Put it back here.","(non-Javadoc)
+@see org.apache.maven.reporting.MavenReport#getOutputName()"
+11653,b245d03078aab80e63cc68fee8c4a1503a73b9d5,3,SATD_REMOVED,TODO: use source roots,"(non-Javadoc)
+@see org.apache.maven.reporting.MavenReport#getOutputName()"
+11654,b245d03078aab80e63cc68fee8c4a1503a73b9d5,3,SATD_REMOVED,TODO: explicit output directory when it is back,"(non-Javadoc)
+@see org.apache.maven.reporting.MavenReport#getOutputName()"
+11692,444a413bd9a5510ff8db12ba46de42b51c945601,3,SATD_REMOVED,TODO: not the best solution. Perhaps a mojo tag that causes the plugin manager to populate project reports instead?,None
+11708,b71badcbdafc6a5dc09b9624b42e96ee20756975,3,SATD_REMOVED,"TODO: include dependencies marked for distribution under certain formats
+TODO: how, might we plug this into an installer, such as NSIS?
+TODO: allow file mode specifications?",None
+11709,b71badcbdafc6a5dc09b9624b42e96ee20756975,3,CLASS_OR_METHOD_CHANGED,"TODO: include dependencies marked for distribution under certain formats
+TODO: how, might we plug this into an installer, such as NSIS?
+TODO: allow file mode specifications?","TODO: include dependencies marked for distribution under certain formats
+TODO: how, might we plug this into an installer, such as NSIS?
+TODO: allow file mode specifications?"
+11710,b71badcbdafc6a5dc09b9624b42e96ee20756975,3,SATD_REMOVED,TODO: use component roles? Can we do that in a mojo?,None
+11711,b71badcbdafc6a5dc09b9624b42e96ee20756975,3,CLASS_OR_METHOD_CHANGED,TODO: use component roles? Can we do that in a mojo?,TODO: use component roles? Can we do that in a mojo?
+11722,901adbc80ea9491d03ff347c6a1deed292489bb8,3,SATD_REMOVED,TODO: cat to file is temporary until the ssh executor is fixed to deal with output,None
+11768,eac4ca45d70990815e5d0899018e4033104a343b,3,CLASS_OR_METHOD_CHANGED,"$NON-NLS-1$
+$NON-NLS-1$
+@todo this is the default, find real ejb version from dependencies","$NON-NLS-1$
+$NON-NLS-1$
+@todo this is the default, find real ejb version from dependencies"
+11769,eac4ca45d70990815e5d0899018e4033104a343b,3,SATD_REMOVED,"@todo direct optional artifacts are not included in the list returned by project.getTestArtifacts()
+.classpath should include ANY direct dependency, and optional dependencies are required to compile",None
+11888,092e258d4a324d33a2121a819446e14573ddcbaa,3,SATD_MOVED_FILE,"TODO: how can we let the WAR/EJBs plugin hook in and provide this?
+TODO: merge in ejb-module, etc.","TODO: how can we let the WAR/EJBs plugin hook in and provide this?
+TODO: merge in ejb-module, etc."
+11889,092e258d4a324d33a2121a819446e14573ddcbaa,3,SATD_MOVED_FILE,"TODO: this is bad - reproducing war plugin defaults, etc!
+--> this is where the OGNL out of a plugin would be helpful as we could run package first and
+grab stuff from the mojo","TODO: this is bad - reproducing war plugin defaults, etc!
+--> this is where the OGNL out of a plugin would be helpful as we could run package first and
+grab stuff from the mojo"
+11890,092e258d4a324d33a2121a819446e14573ddcbaa,3,SATD_MOVED_FILE,TODO: should derive from web.xml - does IDEA do this if omitted?,TODO: should derive from web.xml - does IDEA do this if omitted?
+11891,092e258d4a324d33a2121a819446e14573ddcbaa,3,SATD_REMOVED,TODO: to FileUtils,None
+11892,092e258d4a324d33a2121a819446e14573ddcbaa,3,SATD_REMOVED,TODO: some xpath may actually be more appropriate here,None
+11900,69de1183fc5248753381dec18b47df991ec44821,3,SATD_REMOVED,TODO: Replace this by FileUtils.getDefaultExcludes() when maven will use plexus-utils-1.2,None
+11901,69de1183fc5248753381dec18b47df991ec44821,3,SATD_REMOVED,"Sort projectInfos and projectReports with the default locale setted
+TODO Beautify the output by sorting with each current locale",None
+11902,69de1183fc5248753381dec18b47df991ec44821,3,SATD_REMOVED,"TODO: avoid this hardcoding - the resources dir might be elsewhere. We should really test for duplicate targets, not guess at what source files will be html.
+add the site resources directory to the default exclude list",None
+11903,69de1183fc5248753381dec18b47df991ec44821,3,SATD_REMOVED,"TODO: Be good to generate a module's summary page thats referenced off the
+Modules menu item.",None
+11904,69de1183fc5248753381dec18b47df991ec44821,3,SATD_REMOVED,TODO: can we replace these with an XML tag?,None
+11905,69de1183fc5248753381dec18b47df991ec44821,3,SATD_REMOVED,Not running reactor - search for the projects manually,For external reports
+11906,69de1183fc5248753381dec18b47df991ec44821,3,SATD_REMOVED,TODO: we should use a workspace API that would know if it was in the repository already or not,For external reports
+11907,69de1183fc5248753381dec18b47df991ec44821,3,SATD_REMOVED,"TODO: this is a bit crude - proper type, or proper handling as metadata rather than an artifact in 2.1?",For external reports
+11908,69de1183fc5248753381dec18b47df991ec44821,3,SATD_REMOVED,TODO How to handle i18n?,None
+11909,69de1183fc5248753381dec18b47df991ec44821,3,SATD_REMOVED,"TODO: plexus-archiver, if it could do the excludes",None
+11935,a74fcb231d7407475b2acdbc2da834159f12dd65,3,SATD_REMOVED,TODO: should derive from web.xml - does IDEA do this if omitted?,None
+11939,6e65dddf8cdca178df1e54ebe6c87274b9f5c380,3,SATD_REMOVED,TODO should this break the build?,None
+11970,7cd9aae10d6b3a8e5a2cfb2bc892534b397f7b23,3,SATD_CHANGED,"TODO: Ulgy hack below. Changing the directory should be enough for changing the values of all other
+properties depending on it!","TODO: Ugly hack below. Changing the directory should be enough for changing the values of all other
+properties depending on it!"
+11971,7cd9aae10d6b3a8e5a2cfb2bc892534b397f7b23,3,SATD_REMOVED,"Note: Ideally we should add the new compile source root at the same place as the
+one we'e removing but Theres no API for this...",None
+12059,d390f0a2f9a3034868043a0ba4c706d20c60c5ee,3,SATD_REMOVED,TODO: assertions,None
+12060,d390f0a2f9a3034868043a0ba4c706d20c60c5ee,3,SATD_REMOVED,TODO: separate release POM generation?,None
+12061,d390f0a2f9a3034868043a0ba4c706d20c60c5ee,3,CLASS_OR_METHOD_CHANGED,"TODO: rewrite parent
+TODO: rewrite SCM
+TODO: rewrite dependencies
+TODO: rewrite dependency management
+TODO: rewrite extensions
+TODO: rewrite plugins, plugin management
+TODO: rewrite reporting plugins","TODO: rewrite parent
+TODO: rewrite SCM
+TODO: rewrite dependencies
+TODO: rewrite dependency management
+TODO: rewrite extensions
+TODO: rewrite plugins, plugin management
+TODO: rewrite reporting plugins"
+12069,26be9876097506a175da09fdf1fc5941a9f97116,3,CLASS_OR_METHOD_CHANGED,TODO: what about if version is inherited? shouldnt prompt...,TODO: what about if version is inherited? shouldnt prompt...
+12070,26be9876097506a175da09fdf1fc5941a9f97116,3,SATD_CHANGED,"TODO: rewrite SCM
+TODO: rewrite dependency management
+TODO: rewrite extensions
+TODO: rewrite plugins, plugin management
+TODO: rewrite reporting plugins","TODO: rewrite SCM
+TODO: rewrite extensions
+TODO: rewrite plugins, plugin management
+TODO: rewrite reporting plugins"
+12071,26be9876097506a175da09fdf1fc5941a9f97116,3,SATD_REMOVED,"We are only looking at dependencies external to the project - ignore anything found in the reactor as
+its version will be updated
+TODO: will it? what if it is a different snapshot version to the one being updated in the reactor?","We are only looking at dependencies external to the project - ignore anything found in the reactor as
+its version will be updated"
+12134,758af4d0a80050ddb7f179c7b6816d63b8d1ccf1,3,SATD_REMOVED,"TODO: we need to get a reference to the maven component and use that so this
+will work purely in an embedded mode. Not sure how to pass the release setting to the plugin in that
+instance though - still via -D, or is there a better way?",None
+12135,758af4d0a80050ddb7f179c7b6816d63b8d1ccf1,3,SATD_REMOVED,"accept both space and comma, so the old way still work","Note that the working directory here is not the same as in the release configuration, so dont reuse that"
+12136,758af4d0a80050ddb7f179c7b6816d63b8d1ccf1,3,SATD_REMOVED,TODO [!]: double check if these are the expected behaviours,None
+12140,8b3b79e6ef4916b87e51510cf29cb65739f39631,3,SATD_CHANGED,"TODO [!]: prep goals not configurable
+TODO [!]: resume not configured
+TODO: move to abstract?","TODO [!]: prep goals not configurable
+TODO [!]: resume not configured"
+12142,8b3b79e6ef4916b87e51510cf29cb65739f39631,3,SATD_REMOVED,"TODO [!]: SCM URL is coming from the store but it probably needs to be read from every project instead
+TODO [!]: prepare release mojo needs to set this correct to either connection or developerConnection as appropriate - new version doesnt handle it","Currently, we dont deal with multiple SCM locations in a multiproject"
+12144,8b3b79e6ef4916b87e51510cf29cb65739f39631,3,CLASS_OR_METHOD_CHANGED,"accept both space and comma, so the old way still work","accept both space and comma, so the old way still work"
+12145,758af4d0a80050ddb7f179c7b6816d63b8d1ccf1,3,SATD_CHANGED,To change body of implemented methods use File | Settings | File Templates. TODO [!],TODO: sanity check that it is not . or .. or lower
+12146,758af4d0a80050ddb7f179c7b6816d63b8d1ccf1,3,SATD_CHANGED,To change body of implemented methods use File | Settings | File Templates. TODO [!],"TODO: tag, next poms [!]"
+12147,758af4d0a80050ddb7f179c7b6816d63b8d1ccf1,3,SATD_REMOVED,"If our dependency specifies an explicit released version, do NOT update
+it to the latest released version.  If we depend on a SNAPSHOT that is
+being released, we update the version to reflect the newly released version.
+TODO Cleaner way to determine snapshot?",None
+12148,758af4d0a80050ddb7f179c7b6816d63b8d1ccf1,3,SATD_CHANGED,"----------------------------------------------------------------------
+We only care about dependencies that we are not processing as part
+of the release. Projects in the reactor will be dealt with so we
+dont need to worry about them here. We are strictly looking at
+dependencies that are external to this project.
+----------------------------------------------------------------------",TODO [!]: differentiate failures from exceptions
+12149,758af4d0a80050ddb7f179c7b6816d63b8d1ccf1,3,SATD_REMOVED,"Really each of the scm providers should support something which returns the supported
+characters & lengths supported in tag names.  For now, we'll just assume that CVS is the
+only one with the problem with periods.",None
+12150,758af4d0a80050ddb7f179c7b6816d63b8d1ccf1,3,SATD_REMOVED,"temporary hack to add namespace declaration, not supported by modello/MavenXpp3Writer
+MavenXpp3Writer doesnt support writing the xsd declaration, do it manually",None
+12151,758af4d0a80050ddb7f179c7b6816d63b8d1ccf1,3,SATD_REMOVED,TODO [!] check that callers split parameters that could formerly be comma-separated,None
+12152,758af4d0a80050ddb7f179c7b6816d63b8d1ccf1,3,SATD_REMOVED,TODO: do these still stream?,None
+12164,d5c32346773fdffbb7d1fb61552050c9d9bfa5f5,3,SATD_REMOVED,"/* hack to avoid problems with sources encoding, this string contains accentuated aeiou in UTF-8 */",None
+12165,d5c32346773fdffbb7d1fb61552050c9d9bfa5f5,3,SATD_REMOVED,"}
+TODO [!]",nothing to do
+12166,d5c32346773fdffbb7d1fb61552050c9d9bfa5f5,3,CLASS_OR_METHOD_CHANGED,"Later, it would be a good idea to introduce a proper workflow tool so that the release can be made up of a
+more flexible set of steps.","Later, it would be a good idea to introduce a proper workflow tool so that the release can be made up of a
+more flexible set of steps."
+12167,d5c32346773fdffbb7d1fb61552050c9d9bfa5f5,3,CLASS_OR_METHOD_CHANGED,TODO: rollback?,TODO: rollback?
+12168,d5c32346773fdffbb7d1fb61552050c9d9bfa5f5,3,SATD_REMOVED,"TODO [!]: prep goals not configurable
+TODO [!]: resume not configured",None
+12169,d5c32346773fdffbb7d1fb61552050c9d9bfa5f5,3,SATD_REMOVED,TODO [!]: fix logging,None
+12170,d5c32346773fdffbb7d1fb61552050c9d9bfa5f5,3,SATD_REMOVED,TODO [!]: fix logging,None
+12182,49d0fb39446408686654104fcf34901fb830796a,3,SATD_REMOVED,TODO: includes and excludes,None
+12183,49d0fb39446408686654104fcf34901fb830796a,3,CLASS_OR_METHOD_CHANGED,TODO: includes and excludes,TODO: includes and excludes
+12184,49d0fb39446408686654104fcf34901fb830796a,3,SATD_REMOVED,TODO: this is not mediating dependencies versions - first wins. Is there a way we can do that properly from here?,None
+12185,49d0fb39446408686654104fcf34901fb830796a,3,SATD_REMOVED,"TODO: Is there a better way to get the artifact if it is not yet installed in the repo?
+reactorProject.getArtifact().getFile() is returning null
+tried also the project.getArtifact().getFile() but returning same result",None
+12194,c0f9061b71ecdd07fc98307d7631993e857b8923,3,SATD_REMOVED,TODO: svn utils should take care of prepending this,"If the SCM element is not present, only add it if the parent was not mapped (ie, its external to
+the release process and so has not been modified, so the values will not be correct on the tag)"
+12195,c0f9061b71ecdd07fc98307d7631993e857b8923,3,CLASS_OR_METHOD_CHANGED,TODO: svn utils should take care of prepending this,TODO: svn utils should take care of prepending this
+12196,5bb29e60b33c5be8db22d93a665e32ddbacb91a9,3,SATD_REMOVED,TODO: svn utils should take care of prepending this,None
+12197,5bb29e60b33c5be8db22d93a665e32ddbacb91a9,3,CLASS_OR_METHOD_CHANGED,TODO: svn utils should take care of prepending this,TODO: svn utils should take care of prepending this
+12318,d6354d6bb0804b9d1863b2f4fe27ee69e7e88e3e,3,SATD_CHANGED,"@todo temporary disabled, since it randomically fails due to a different order for dependencies in classpath and
+wtpmodules. This is not a problem, since order could be ignored in this test, but we should rewrite the file-comparing
+step which at the moment just does line by line comparison
+public void testProject7()
+throws Exception","@todo temporary disabled, since it randomically fails due to a different order for dependencies in classpath and
+wtpmodules. This is not a problem, since order could be ignored in this test, but we should rewrite the file-comparing
+step which at the moment just does line by line comparison
+public void testProject07()
+throws Exception"
+12319,d6354d6bb0804b9d1863b2f4fe27ee69e7e88e3e,3,SATD_REMOVED,"@todo temporary disabled, since it randomically fails due to a different order for dependencies in classpath and
+wtpmodules. This is not a problem, since order could be ignored in this test, but we should rewrite the file-comparing
+step which at the moment just does line by line comparison
+public void testProject7()
+throws Exception",}
+12323,cc13d5365322792a16ca5211086d45cce1f94c66,3,CLASS_OR_METHOD_CHANGED,"TODO: use compiler setting
+TODO: use compiler setting
+TODO: use compiler setting","TODO: use compiler setting
+TODO: use compiler setting
+TODO: use compiler setting"
+12324,cc13d5365322792a16ca5211086d45cce1f94c66,3,SATD_REMOVED,TODO: property?,include
+12325,cc13d5365322792a16ca5211086d45cce1f94c66,3,SATD_REMOVED,TODO: property?,exclude
+12330,c96e0d141567cf965e7298b7d8c3f172c3f45c24,3,SATD_REMOVED,"TODO: verify there is a test for this method.
+TODO: create test for striping versions too",None
+12338,fc8e11f975ef961f05645bdbcf1b6884073a9cb7,3,SATD_REMOVED,"TODO: I'd really prefer to rewrite MavenArchiver as either a
+separate manifest creation utility (and to
+create an include pom.properties etc into another archiver), or
+an implementation of an archiver
+(the first is preferable).",None
+12365,1e2762ccff52090b8ef40be923b1d7f8d33f429e,3,SATD_REMOVED,TODO: what about wildcards? Just specifying groups? versions?,None
+12366,1e2762ccff52090b8ef40be923b1d7f8d33f429e,3,CLASS_OR_METHOD_CHANGED,TODO: what about wildcards? Just specifying groups? versions?,TODO: what about wildcards? Just specifying groups? versions?
+12367,1e2762ccff52090b8ef40be923b1d7f8d33f429e,3,SATD_REMOVED,"TODO: Version ranges, wildcards, ...?",None
+12368,87f8e441d07cb95c9ba07a0c3dce3bd54d67769d,3,CLASS_OR_METHOD_CHANGED,"FIXME: Once Maven (all supported versions in the wild) are using plexus-utils >= 1.3,
+we should remove this.","FIXME: Once Maven (all supported versions in the wild) are using plexus-utils >= 1.3,
+we should remove this."
+12381,69c66f0a4b587e1f22661e9dd6f4f0e3654db4f0,3,SATD_REMOVED,TODO: not sure about location of dictionary - its usually just 1 argument.,None
+12384,4217d2d33d1d0a485324533c9e65bfea3f5ef218,3,SATD_REMOVED,TODO: get proper siteDirectory from site configuration of the project this relates to,None
+12385,e61d3db6434e66c53a3f2e56ecd1c79947cfb13a,3,SATD_REMOVED,"TODO: add mojo param addVersionToProjectName  and if set append
+-version to the project name.",NOTE: This could change the config!
+12386,e61d3db6434e66c53a3f2e56ecd1c79947cfb13a,3,CLASS_OR_METHOD_CHANGED,"TODO: add mojo param addVersionToProjectName and if set append
+-version to the project name.","TODO: add mojo param addVersionToProjectName and if set append
+-version to the project name."
+12387,e61d3db6434e66c53a3f2e56ecd1c79947cfb13a,3,SATD_REMOVED,"XXX TODO: change the buildCommands param to match
+<buildCommands>
+<buildCommand>
+<name>....</name>
+<arguments>
+<somekey>somevalue</somekey>
+</arguments>",NOTE: This could change the config!
+12402,a7f75e7d9c39312c69ba405962c1d89c2c493eca,3,SATD_REMOVED,TODO: refactor this to use the filters.,None
+12403,a7f75e7d9c39312c69ba405962c1d89c2c493eca,3,SATD_REMOVED,TODO:refactor this,None
+12473,d9f5270e111abfea2d1a6e4d82f818255e8250c9,3,SATD_REMOVED,"@todo this is the default, find real ejb version from dependencies",$NON-NLS-1$
+12474,d9f5270e111abfea2d1a6e4d82f818255e8250c9,3,SATD_CHANGED,"@todo temporary disabled, since it randomically fails due to a different order for dependencies in classpath and
+wtpmodules. This is not a problem, since order could be ignored in this test, but we should rewrite the file-comparing
+step which at the moment just does line by line comparison
+public void testProject07()
+throws Exception","@todo temporary disabled, since it randomically fails due to a different order for dependencies in classpath and
+wtpmodules. This is not a problem, since order could be ignored in this test, but we should rewrite the
+file-comparing
+step which at the moment just does line by line comparison
+public void testProject07()
+throws Exception"
+12475,d9f5270e111abfea2d1a6e4d82f818255e8250c9,3,SATD_REMOVED,"@todo temporary disabled, since it randomically fails due to a different order for dependencies in classpath and
+wtpmodules. This is not a problem, since order could be ignored in this test, but we should rewrite the file-comparing
+step which at the moment just does line by line comparison
+public void testProject07()
+throws Exception",}
+12501,6015318f548c214fb378501fc3e758eac987a976,3,SATD_REMOVED,@TODO needs to be handled nicely in the verifier,None
+12511,ac40b3b4c7e635785305a6246534340a6c54f751,3,SATD_REMOVED,TODO: fix DependencyTreeBuilder to apply filter,None
+12512,ac40b3b4c7e635785305a6246534340a6c54f751,3,SATD_REMOVED,TODO: remove the need for this when the serializer can calculate last nodes from visitor calls only,None
+12518,40a294204050c268cc2d4ee434051f0df65031cc,3,SATD_CHANGED,@todo a final report with the list of missingArtifacts?,"@todo a final report with the list of
+missingArtifacts?"
+12519,40a294204050c268cc2d4ee434051f0df65031cc,3,SATD_REMOVED,@todo also report deps without a source attachment but with a javadoc one?,None
+12520,40a294204050c268cc2d4ee434051f0df65031cc,3,SATD_REMOVED,@todo we should probably not make source/javadocs exclusive,None
+12526,c1a2f86731bc24ff52a0ac0a95f076343b3dd5c4,3,SATD_REMOVED,"TODO: There MUST BE a better way that this, but I kept running into
+incompatible ClassRealm class definitions...so, I give up.",None
+12548,0f965bf7bf6679d128b39a683f7b523cdb1c24a1,3,CLASS_OR_METHOD_CHANGED,"NOTE: All the code following this point was scooped
+from the DefaultLifecycleExecutor. There must be a
+better way but for now it should work.
+","NOTE: All the code following this point was scooped
+from the DefaultLifecycleExecutor. There must be a
+better way but for now it should work.
+"
+12549,0f965bf7bf6679d128b39a683f7b523cdb1c24a1,3,CLASS_OR_METHOD_CHANGED,"TODO: if moved to the plugin manager we
+already have the descriptor from above
+and so do can lookup the container
+directly","TODO: if moved to the plugin manager we
+already have the descriptor from above
+and so do can lookup the container
+directly"
+12550,0f965bf7bf6679d128b39a683f7b523cdb1c24a1,3,CLASS_OR_METHOD_CHANGED,"do we want to look in the reactor like the project builder? Would require @aggregator goal
+which causes problems in maven core right now because we also need dependency resolution in other
+rules. (MNG-2277)","do we want to look in the reactor like the project builder? Would require @aggregator goal
+which causes problems in maven core right now because we also need dependency resolution in other
+rules. (MNG-2277)"
+12551,910c73a89f9a75019f9df4dc93ec07847d696cbf,3,SATD_CHANGED,FIXME: This is BAD! Accessors SHOULD NOT change the behavior of the object.,TODO: This is BAD! Accessors SHOULD NOT change the behavior of the object.
+12552,910c73a89f9a75019f9df4dc93ec07847d696cbf,3,SATD_REMOVED,"TODO: We should be blacklisting these, but currently they're not supported by filename mapping interpolation.",None
+12554,767a2b09441222b1014beae9872ba57fc849325f,3,SATD_REMOVED,TODO BUG for some reason it gets the wagon without authentication info,None
+12555,767a2b09441222b1014beae9872ba57fc849325f,3,SATD_REMOVED,@todo Work around the bug above,None
+12636,e82c6ab48d37c506b70a958eb190187ce89cce3e,3,SATD_REMOVED,"TODO: could be better aligned with JXR, including getFiles() vs hasSources that finds java files.",None
+12677,9857136aae539cf0ee81e9d3478aa085c055222a,3,SATD_REMOVED,"TODO remove the part with ToolchainManager lookup once we depend on
+3.0.9 (have it as prerequisite). Define as regular component field then.",None
+12705,c065366f87ffe7e5042718d328684a882a6641c5,3,SATD_REMOVED,TODO: IOException from plexus-utils should be acceptable here,None
+12706,c065366f87ffe7e5042718d328684a882a6641c5,3,CLASS_OR_METHOD_CHANGED,TODO: IOException from plexus-utils should be acceptable here,TODO: IOException from plexus-utils should be acceptable here
+12721,8121b7cfce4054c928cbb9f077a1a181a0ed7d0b,3,SATD_REMOVED,Hacks for assertEquals problems.,None
+12723,8121b7cfce4054c928cbb9f077a1a181a0ed7d0b,3,SATD_REMOVED,"NOTE: This is a hack to compensate for files that contain generated values like dependent-object
+in org.eclipse.wst.common.component.
+
+Regex would be a better solution.",None
+12728,92f1f07af867d440197019f41937c05e0796058e,3,SATD_REMOVED,"TODO: if this really is an error, shouldnt we stop the build??",None
+12729,92f1f07af867d440197019f41937c05e0796058e,3,SATD_REMOVED,"TODO: if this really is an error, shouldnt we stop the build??",None
+12796,f6b9c8978bdaddbecadd3c4b96c9a06773c76104,3,SATD_REMOVED,TODO review generic for changes in QDOX 1.9.1,None
+12797,f6b9c8978bdaddbecadd3c4b96c9a06773c76104,3,SATD_REMOVED,workaround for generics i.e. type.getValue() = E instead of real class,None
+12798,f6b9c8978bdaddbecadd3c4b96c9a06773c76104,3,SATD_REMOVED,Workaround to take care of generics,None
+12836,c89aedd3702948c819a9f1fdeb284d6d4b1adca0,3,SATD_REMOVED,TODO: IOException from plexus-utils should be acceptable here,None
+12864,26ac115ce38b4eac548ba56f52bded0884261782,3,SATD_REMOVED,TODO refactor - place the manipulation of the expressionEvaluator into a separated class.,None
+12873,d7c7292d2e809136c823eba318f2dff0f8c73eb2,3,SATD_REMOVED,TODO: such a call in MavenMetadataSource too - packaging not really the intention of type,None
+12874,d7c7292d2e809136c823eba318f2dff0f8c73eb2,3,SATD_REMOVED,TODO: such a call in MavenMetadataSource too - packaging not really the intention of type,None
+12875,d7c7292d2e809136c823eba318f2dff0f8c73eb2,3,SATD_REMOVED,"TODO: Remove this, once we can depend on Maven 2.0.7 or later...in which
+MavenProject.getManagedVersionMap() exists. This is from MNG-1577.",None
+12876,d7c7292d2e809136c823eba318f2dff0f8c73eb2,3,SATD_REMOVED,"NOTE: hard-coding to resolve artifacts transitively, since this is meant to be a self-contained repository...",None
+12877,d7c7292d2e809136c823eba318f2dff0f8c73eb2,3,CLASS_OR_METHOD_CHANGED,TODO use ReaderFactory.newXmlReader() when plexus-utils is upgraded to 1.4.5+,TODO use ReaderFactory.newXmlReader() when plexus-utils is upgraded to 1.4.5+
+12878,d7c7292d2e809136c823eba318f2dff0f8c73eb2,3,CLASS_OR_METHOD_CHANGED,TODO use ReaderFactory.newXmlReader() when plexus-utils is upgraded to 1.4.5+,TODO use ReaderFactory.newXmlReader() when plexus-utils is upgraded to 1.4.5+
+12879,d7c7292d2e809136c823eba318f2dff0f8c73eb2,3,CLASS_OR_METHOD_CHANGED,TODO use ReaderFactory.newXmlReader() when plexus-utils is upgraded to 1.4.5+,TODO use ReaderFactory.newXmlReader() when plexus-utils is upgraded to 1.4.5+
+12880,d7c7292d2e809136c823eba318f2dff0f8c73eb2,3,CLASS_OR_METHOD_CHANGED,FIXME: This will produce unpredictable results when module dependencies have a version conflict.,FIXME: This will produce unpredictable results when module dependencies have a version conflict.
+12991,8dbdb4949bf44e059023176c6439030aa54faef7,3,SATD_REMOVED,"TODO: how to map to usefulinc site, or if this is necessary, the OSI page might
+be more appropriate.",None
+13010,79eaaace293f84be8fc7dd53293df873e9ec4b8e,3,SATD_REMOVED,"could be a sporadic failure, one more retry before we give up",None
+13064,ce524c76cdf319474c662f8bd4accef4e80dde04,3,SATD_REMOVED,"NOTE: Although the dependency reduced POM in the project directory is temporary build output, we have to
+use that for the file of the project instead of something in target to avoid messing up the base
+directory of the project. We'll delete this file on exit to make sure it gets cleaned up but keep a copy
+for inspection in the target directory as well.",None
+13094,df208c798701d737d50b9348047a0f50ad4551c3,3,SATD_REMOVED,TODO somehow shaky dependency between compilerId and tool executable.,no op only here for backward comp
+13095,df208c798701d737d50b9348047a0f50ad4551c3,3,SATD_REMOVED,TODO: dont catch Exception,no op only here for backward comp
+13096,df208c798701d737d50b9348047a0f50ad4551c3,3,SATD_REMOVED,"TODO remove the part with ToolchainManager lookup once we depend on
+3.0.9 (have it as prerequisite). Define as regular component field then.",no op only here for backward comp
+13135,3797abbd44928b4bd9c459aa1adb5a7bfc0bbc5c,3,SATD_REMOVED,TODO overall summary,None
+13136,3797abbd44928b4bd9c459aa1adb5a7bfc0bbc5c,3,SATD_REMOVED,TODO files summary,None
+13137,3797abbd44928b4bd9c459aa1adb5a7bfc0bbc5c,3,SATD_REMOVED,"The Metrics report useless with the current PMD metrics impl.
+For instance, run the coupling ruleset and you will get a boatload
+of excessive imports metrics, none of which is really any use.
+TODO Determine if we are going to just ignore metrics.",// Skip metrics which have no data
+13138,3797abbd44928b4bd9c459aa1adb5a7bfc0bbc5c,3,SATD_REMOVED,"The Metrics report useless with the current PMD metrics impl.
+For instance, run the coupling ruleset and you will get a boatload
+of excessive imports metrics, none of which is really any use.
+TODO Determine if we are going to just ignore metrics.",}
+13166,72dd7376272aa44674e17ccf49e8c8e1ccd36412,3,SATD_REMOVED,"MCHECKSTYLE-131 ( olamy ) I dont like this hack.
+(dkulp) Me either.   It really pollutes the location stuff
+by allowing searches of stuff outside the current module.",None
+13167,72dd7376272aa44674e17ccf49e8c8e1ccd36412,3,CLASS_OR_METHOD_CHANGED,"MCHECKSTYLE-131 ( olamy ) I dont like this hack.
+(dkulp) Me either.   It really pollutes the location stuff
+by allowing searches of stuff outside the current module.","MCHECKSTYLE-131 ( olamy ) I dont like this hack.
+(dkulp) Me either.   It really pollutes the location stuff
+by allowing searches of stuff outside the current module."
+13207,4adb61d12fdb7d43633acb39e1b11c5e43b36dfb,3,SATD_REMOVED,"TODO: this needs a cleanup in plexus archiver - use a real
+typesafe enum",None
+13208,4adb61d12fdb7d43633acb39e1b11c5e43b36dfb,3,CLASS_OR_METHOD_CHANGED,"TODO: this should accept gz and bz2 as well so we can skip
+over the switch","TODO: this should accept gz and bz2 as well so we can skip
+over the switch"
+13209,4adb61d12fdb7d43633acb39e1b11c5e43b36dfb,3,CLASS_OR_METHOD_CHANGED,TODO: better handling,TODO: better handling
+13220,9db79e3806dc4822899a284feb7b2bf200a4239f,3,SATD_REMOVED,"TODO: Re-implement these tests on the createArchiver(..) method. For now, they're no big loss.
+public void testConfigureArchiverFinalizers_ShouldDoNothingWhenNotSupportedByArchiver()",None
+13232,df29ae09f06e601259ff7240fa8305c1ab1a3791,3,CLASS_OR_METHOD_CHANGED,"TODO: such a call in MavenMetadataSource too - packaging not really the intention of
+type","TODO: such a call in MavenMetadataSource too - packaging not really the intention of
+type"
+13233,df29ae09f06e601259ff7240fa8305c1ab1a3791,3,SATD_REMOVED,"MASSEMBLY-619 is now delegated to different overload.
+This probably means there is a parallel bleed between dependencies for module sets.",None
+13236,e24e81ca3f931e5b5b16394cdd3d6a59de7db2a1,3,SATD_REMOVED,TODO: This is BAD! Accessors SHOULD NOT change the behavior of the object.,None
+13237,e24e81ca3f931e5b5b16394cdd3d6a59de7db2a1,3,CLASS_OR_METHOD_CHANGED,TODO: This is BAD! Accessors SHOULD NOT change the behavior of the object.,TODO: This is BAD! Accessors SHOULD NOT change the behavior of the object.
+13247,efe42edd050028e220cf3b0e167c6bf0cdac086e,3,SATD_REMOVED,Nicked from archiver until I can get a better solution. I am the author :),None
+13248,efe42edd050028e220cf3b0e167c6bf0cdac086e,3,SATD_REMOVED,TODO use WriterFactory.newXmlWriter() when plexus-utils is upgraded to 1.4.5+,None
+13249,efe42edd050028e220cf3b0e167c6bf0cdac086e,3,SATD_REMOVED,TODO use ReaderFactory.newXmlReader() when plexus-utils is upgraded to 1.4.5+,None
+13261,0b6cbe66640a89a115117c29d9542485ba1c9b41,3,SATD_REMOVED,"TODO Add a noconvergence property string aligned with the other reports
+should generate the convergency report, even its single Maven project.",None
+13262,0b6cbe66640a89a115117c29d9542485ba1c9b41,3,SATD_REMOVED,TODO Add a nomodules property string aligned with the other reports,None
+13263,0b6cbe66640a89a115117c29d9542485ba1c9b41,3,SATD_REMOVED,TODO Add a nopluginmanagement property string aligned with the other reports,None
+13267,60e4041497dff973ce16c8ce134a52ac455024a2,3,SATD_REMOVED,"TODO: Will this adequately detect cycles between prefixed property references and prefixed project
+references??",None
+13311,8066a1e1790e68f268027f2fa1d012a247ae73c7,3,SATD_CHANGED,"TODO use WriterFactory.newXmlWriter() when plexus-utils is upgraded to 1.4.5+
+$NON-NLS-1$",TODO use WriterFactory.newXmlWriter() when plexus-utils is upgraded to 1.4.5+
+13312,8066a1e1790e68f268027f2fa1d012a247ae73c7,3,SATD_REMOVED,"TODO use WriterFactory.newXmlWriter() when plexus-utils is upgraded to 1.4.5+
+$NON-NLS-1$",to be removed when encoding is detected instead of forced to UTF-8
+13313,8066a1e1790e68f268027f2fa1d012a247ae73c7,3,SATD_REMOVED,"fixed
+fixed
+$NON-NLS-1$
+installed
+installed",$NON-NLS-1$
+13314,8066a1e1790e68f268027f2fa1d012a247ae73c7,3,SATD_CHANGED,"fixed
+fixed
+$NON-NLS-1$
+installed
+installed","fixed
+fixed
+installed"
+13315,8066a1e1790e68f268027f2fa1d012a247ae73c7,3,SATD_REMOVED,"fixed
+fixed
+$NON-NLS-1$
+installed
+installed",installed
+13364,716fd61e649c9d2949b2540df6407dc3b69be886,3,SATD_REMOVED,"TODO: shouldnt need classifer
+TODO: For 3.0 this should be changed having a separate classifier for main artifact and ejb-client.",None
+13365,716fd61e649c9d2949b2540df6407dc3b69be886,3,CLASS_OR_METHOD_CHANGED,"TODO: shouldnt need classifer
+TODO: For 3.0 this should be changed having a separate classifier for main artifact and ejb-client.","TODO: shouldnt need classifer
+TODO: For 3.0 this should be changed having a separate classifier for main artifact and ejb-client."
+13366,36e62c0a68247208b1b17250642f366818524940,3,SATD_REMOVED,"Handle the classifier if necessary
+TODO: For 3.0 this should be changed having a separate classifier for main artifact and ejb-client.",None
+13367,36e62c0a68247208b1b17250642f366818524940,3,SATD_REMOVED,"TODO: shouldnt need classifer
+TODO: For 3.0 this should be changed having a separate classifier for main artifact and ejb-client.",None
+13371,d236f5dedbcf257d701cd5879f027cda8119cdb3,3,SATD_REMOVED,TODO: will null work instead?,None
+13372,d236f5dedbcf257d701cd5879f027cda8119cdb3,3,SATD_REMOVED,TODO: This should be handled different.,None
+13384,dbb43ff58bbb8fe6d255b7759c10693f467904d6,3,SATD_REMOVED,FIXME I'm not getting runtime dependencies here,None
+13385,dbb43ff58bbb8fe6d255b7759c10693f467904d6,3,SATD_REMOVED,"TODO: Remove this, once we can depend on Maven 2.0.7 or later...in which
+MavenProject.getManagedVersionMap() exists. This is from MNG-1577.",None
+13457,c21039b57082811966169f78371e79bcddaefd4d,3,SATD_REMOVED,TODO: push into transformation,None
+13458,c21039b57082811966169f78371e79bcddaefd4d,3,SATD_REMOVED,"Here, we have a temporary solution to MINSTALL-3 (isDirectory() is true if it went through compile
+but not package). We are designing in a proper solution for Maven 2.1",None
+13499,88157025830de105f092aed6e70c4000b229e5e1,3,SATD_REMOVED,"TODO: maybe not strictly correct, while we should enforce that packaging has a type handler of the same id,
+we dont",None
+13506,86982c2e7ccae6932340f40c4ce8f193d8bd30aa,3,SATD_CHANGED,"TODO: Think if ResultionScope is needed here? May be we need to reconsider package phase?
+May be it would be wise to put into PREPARE-PACKAGE and the generation of the final jimage in the package phase?
+Furthermore It could make sense so we can change the conf files if needed...","TODO: Think if ResultionScope is needed here? May be we need to reconsider package phase?
+May be it would be wise to put into PREPARE-PACKAGE and the generation of the final jimage in the package phase?
+Furthermore It could make sense so we can change the conf files if needed...
+CHECKSTYLE_OFF: LineLength"
+13507,86982c2e7ccae6932340f40c4ce8f193d8bd30aa,3,SATD_REMOVED,"TODO: Think if ResultionScope is needed here? May be we need to reconsider package phase?
+May be it would be wise to put into PREPARE-PACKAGE and the generation of the final jimage in the package phase?
+Furthermore It could make sense so we can change the conf files if needed...",CHECKSTYLE_ON: LineLength
+13513,cdb9ae056b31cc2780095e8c5505f81d2ae42137,3,SATD_REMOVED,FIXME: Check this ?,None
+13515,54350cd09e696d234b30b8cd1c5561438b68073f,3,SATD_REMOVED,"Always null see MPLUGIN-137
+TODO remove when maven-plugin-tools-api:2.4.4",Can be null because of MPLUGIN-137 (and descriptors generated with maven-plugin-tools-api <= 2.4.3)
+13516,54350cd09e696d234b30b8cd1c5561438b68073f,3,SATD_REMOVED,TODO remove when maven-plugin-tools-api:2.4.4 is out see PluginUtils.sortMojoParameters(),None
+13517,54350cd09e696d234b30b8cd1c5561438b68073f,3,SATD_REMOVED,"This feels more like a hack to filter out inactive profiles, there is no'direct'
+way to query activation status on a Profile instance.",active Profiles will be a subset of *all* profiles
+13524,d62fcac59b6961729e5a6a0f3efd88d3501ead8d,3,FILE_PATH_CHANGED,TODO: would be good to scan the files here,TODO: would be good to scan the files here
+13525,d62fcac59b6961729e5a6a0f3efd88d3501ead8d,3,SATD_REMOVED,Maven 2.x workaround,None
+13526,d62fcac59b6961729e5a6a0f3efd88d3501ead8d,3,FILE_PATH_CHANGED,"@todo if we can filter on hints, it should be done here...","@todo if we can filter on hints, it should be done here..."
+13527,d62fcac59b6961729e5a6a0f3efd88d3501ead8d,3,FILE_PATH_CHANGED,TODO: failure if not a report,TODO: failure if not a report
+13528,d62fcac59b6961729e5a6a0f3efd88d3501ead8d,3,SATD_REMOVED,Maven 2.x workaround,None
+13529,d62fcac59b6961729e5a6a0f3efd88d3501ead8d,3,FILE_PATH_CHANGED,"@todo if we can filter on hints, it should be done here...","@todo if we can filter on hints, it should be done here..."
+13530,d62fcac59b6961729e5a6a0f3efd88d3501ead8d,3,SATD_REMOVED,"checkstyle will always use the context classloader in order
+to load resources (dtds),
+so we have to fix it
+olamy this hack is not anymore needed in maven 3.x",None
+13531,d62fcac59b6961729e5a6a0f3efd88d3501ead8d,3,FILE_PATH_CHANGED,"TODO: should be a failure, not an error. Report is not meant to
+throw an exception here (so site would
+work regardless of config), but should record this information","TODO: should be a failure, not an error. Report is not meant to
+throw an exception here (so site would
+work regardless of config), but should record this information"
+13532,d62fcac59b6961729e5a6a0f3efd88d3501ead8d,3,FILE_PATH_CHANGED,MCHECKSTYLE-332 Checkstyle 6.16+ (#569): the cache is moved to the Checker module instead of TreeWalker,MCHECKSTYLE-332 Checkstyle 6.16+ (#569): the cache is moved to the Checker module instead of TreeWalker
+13534,d62fcac59b6961729e5a6a0f3efd88d3501ead8d,3,FILE_PATH_CHANGED,"MCHECKSTYLE-131 ( olamy ) I dont like this hack.
+(dkulp) Me either.   It really pollutes the location stuff
+by allowing searches of stuff outside the current module.","MCHECKSTYLE-131 ( olamy ) I dont like this hack.
+(dkulp) Me either.   It really pollutes the location stuff
+by allowing searches of stuff outside the current module."
+13535,d62fcac59b6961729e5a6a0f3efd88d3501ead8d,3,FILE_PATH_CHANGED,TODO: would be good to scan the files here,TODO: would be good to scan the files here
+13536,99784be406ff405c418d672f5a92c8f066767b87,3,FILE_PATH_CHANGED,"Let JIRA do the filtering of the current version instead of the JIRA mojo.
+This way JIRA returns less issues and we do not run into the 
+bEntriesMax limit that easily.","Let JIRA do the filtering of the current version instead of the JIRA mojo.
+This way JIRA returns less issues and we do not run into the 
+bEntriesMax limit that easily."
+13537,99784be406ff405c418d672f5a92c8f066767b87,3,FILE_PATH_CHANGED,"@todo Add more issue management systems here
+Remember to also add documentation in usage.apt.vm","@todo Add more issue management systems here
+Remember to also add documentation in usage.apt.vm"
+13538,99784be406ff405c418d672f5a92c8f066767b87,3,FILE_PATH_CHANGED,TODO: better way?,TODO: better way?
+13539,99784be406ff405c418d672f5a92c8f066767b87,3,FILE_PATH_CHANGED,"If we dont get a properly formed templateName then Theres not much we can do. So we'll forget about
+trying to search any more paths for the template.","If we dont get a properly formed templateName then Theres not much we can do. So we'll forget about
+trying to search any more paths for the template."
+13540,99784be406ff405c418d672f5a92c8f066767b87,3,FILE_PATH_CHANGED,The standard issue types for Trac (probably wrong),The standard issue types for Trac (probably wrong)
+13541,99784be406ff405c418d672f5a92c8f066767b87,3,FILE_PATH_CHANGED,TODO: save for inspection?,TODO: save for inspection?
+13542,99784be406ff405c418d672f5a92c8f066767b87,3,SATD_REMOVED,This classloader juggling is a workaround for a classic Maven 2 class loader management bug.,None
+13543,99784be406ff405c418d672f5a92c8f066767b87,3,FILE_PATH_CHANGED,TODO: is this guaranteed to be the latest?,TODO: is this guaranteed to be the latest?
+13544,99784be406ff405c418d672f5a92c8f066767b87,3,FILE_PATH_CHANGED,TODO: localize?,TODO: localize?
+13545,99784be406ff405c418d672f5a92c8f066767b87,3,FILE_PATH_CHANGED,@todo Do we need to be able to configure the locale of the JIRA server as well?,@todo Do we need to be able to configure the locale of the JIRA server as well?
+13546,99784be406ff405c418d672f5a92c8f066767b87,3,FILE_PATH_CHANGED,"@todo We need to add something like issue.getPresentationIdentifier() to be able to support other IMSes
+beside JIRA","@todo We need to add something like issue.getPresentationIdentifier() to be able to support other IMSes
+beside JIRA"
+13547,99784be406ff405c418d672f5a92c8f066767b87,3,SATD_REMOVED,"Handle deprecated parameters, in a backward compatible way",None
+13548,99784be406ff405c418d672f5a92c8f066767b87,3,FILE_PATH_CHANGED,@todo Add more issue management systems here.,@todo Add more issue management systems here.
+13549,99784be406ff405c418d672f5a92c8f066767b87,3,FILE_PATH_CHANGED,TODO: push to a helper? Could still be improved by taking more of the site information from the site plugin,TODO: push to a helper? Could still be improved by taking more of the site information from the site plugin
+13570,87b24eacada0322fb0197839d953a9ff1771b2aa,3,SATD_REMOVED,The fileName should probably use the plugin executionId instead of the targetName,None
+13571,87b24eacada0322fb0197839d953a9ff1771b2aa,3,CLASS_OR_METHOD_CHANGED,The fileName should probably use the plugin executionId instead of the targetName,The fileName should probably use the plugin executionId instead of the targetName
+13596,c98ae62e5a38b1e37df06ba6e768bcae9527942c,3,SATD_CHANGED,"TODO: Think if ResultionScope is needed here? May be we need to reconsider package phase?
+May be it would be wise to put into PREPARE-PACKAGE and the generation of the final jimage in the package phase?
+Furthermore It could make sense so we can change the conf files if needed...
+CHECKSTYLE_OFF: LineLength","TODO: Check things about conf files?
+CHECKSTYLE_OFF: LineLength"
+13597,c98ae62e5a38b1e37df06ba6e768bcae9527942c,3,SATD_REMOVED,"TODO: Think if ResultionScope is needed here? May be we need to reconsider package phase?
+May be it would be wise to put into PREPARE-PACKAGE and the generation of the final jimage in the package phase?
+Furthermore It could make sense so we can change the conf files if needed...
+CHECKSTYLE_OFF: LineLength",CHECKSTYLE_ON: LineLength
+13599,c98ae62e5a38b1e37df06ba6e768bcae9527942c,3,SATD_CHANGED,"TODO: What about module name != artifactId which has been
+defined in module-info.java file!
+This would mean to read the module-info information from the jmod file for example...","TODO: What about module name != artifactId which has been
+defined in module-info.java file!
+This would mean to read the module-info information from the jmod/jar file for example to
+get the appropriate information."
+13600,c98ae62e5a38b1e37df06ba6e768bcae9527942c,3,SATD_CHANGED,"TODO: Check if this is the correct way?
+This implies the artifactId is equal to moduleName.","TODO: Check if this is the correct way?
+This implies the artifactId is equal to moduleName which might not always be the case!"
+13603,a1500c9d030512f897c166180a271f7a22743894,3,SATD_CHANGED,"TODO: Reconsider resolution scope, phase ?
+CHECKSTYLE_OFF: LineLength","TODO: Reconsider resolution scope.
+CHECKSTYLE_OFF: LineLength"
+13604,a1500c9d030512f897c166180a271f7a22743894,3,SATD_REMOVED,"TODO: Reconsider resolution scope, phase ?
+CHECKSTYLE_OFF: LineLength",CHECKSTYLE_ON: LineLength
+13605,a1500c9d030512f897c166180a271f7a22743894,3,SATD_CHANGED,"We need to put the resulting x.jmod files into jmods folder.
+Check why?","We need to put the resulting x.jmod files into jmods folder otherwise is
+seemed to be not working.
+Check why?"
+13606,a1500c9d030512f897c166180a271f7a22743894,3,SATD_REMOVED,"Can not be overwritten...
+TODO: Good idea?",None
+13607,a1500c9d030512f897c166180a271f7a22743894,3,SATD_REMOVED,FIXME: Check this ?,None
+13612,227086e9ea009452e0b7bd2980c33b1791353a75,3,SATD_REMOVED,TODO: Check if we should allow to extend the modulePaths by manual additions in the pom file?,None
+13614,227086e9ea009452e0b7bd2980c33b1791353a75,3,SATD_CHANGED,"TODO: What about module name != artifactId which has been
+defined in module-info.java file!
+This would mean to read the module-info information from the jmod/jar file for example to
+get the appropriate information.",Isn't there a better solution?
+13615,227086e9ea009452e0b7bd2980c33b1791353a75,3,SATD_REMOVED,"TODO: Check if this is the correct way?
+This implies the artifactId is equal to moduleName which might not always be the case!",None
+13616,227086e9ea009452e0b7bd2980c33b1791353a75,3,SATD_REMOVED,"
+// FIXME: Need to check if the given paths exists? and if they are
+// folders?
+// String message = The given module-paths parameter  + modulePath.getAbsolutePath()",None
+13635,222802dee2681c14153ce9c444ccc351fcca1683,3,SATD_REMOVED,Isn't there a better solution?,None
+13648,7e6b3d89833241e617d269cff5686853bc001409,6,SATD_REMOVED,FIXME: Make sure this can now be deleted,None
+13671,e83981e90090b55b84cad723a241efb774255383,6,SATD_REMOVED,FIXME: Should probably blow up with localIdentifier is not right here!,None
+13673,c1615b41e297cb2b3e331a042fc43213f12227e5,6,SATD_REMOVED,FIXME: Can this somehow be integrated with the package stuff?,(blank)
+13674,c1615b41e297cb2b3e331a042fc43213f12227e5,6,SATD_REMOVED,FIXME: Can this somehow be integrated with the package stuff?,}
+13675,83f06ebc6de0abcecbe4f0e0331f525fbea30088,6,SATD_REMOVED,Then merge fixed identifiers back in,None
+13676,83f06ebc6de0abcecbe4f0e0331f525fbea30088,6,SATD_REMOVED,"DM: Changed behaviour here in order to suit MathAssess project better. We now only
+initialise an item once. The previous JQTI behaviour allowed items to be reinitialised,
+which had the effect of rebuilding template variables, which caused randomised questions
+in tests to re-randomise during navigation, which was deemed to be very confusing to students.
+I have left the existing logic intact below.
+
+FIXME-DM: Maybe we should dump this flag completely and only initialise items when it actually makes sense?",None
+13677,83f06ebc6de0abcecbe4f0e0331f525fbea30088,6,SATD_REMOVED,"TODO: Not really sure what's best here, but probably not important!",None
+13678,83f06ebc6de0abcecbe4f0e0331f525fbea30088,6,CLASS_OR_METHOD_CHANGED,FIXME: This way of accessing outcome values looks old... probably needs refactored!,FIXME: This way of accessing outcome values looks old... probably needs refactored!
+13695,ac6719111fde08da0cced52b8bcec119a8f9b8e1,6,SATD_REMOVED,FIXME: Kill this stuff here!,None
+13749,07bf7c7d8888625a9fb07557fb38fb60e3a92dd4,6,CLASS_OR_METHOD_CHANGED,TODO: Maybe allow some more control over this choice of prefix?,TODO: Maybe allow some more control over this choice of prefix?
+13751,c3f5070a48b0636b1f5d7cc36b115c3edc9847ac,6,CLASS_OR_METHOD_CHANGED,FIXME: This way of accessing outcome values looks old... probably needs refactored!,FIXME: This way of accessing outcome values looks old... probably needs refactored!
+13752,c3f5070a48b0636b1f5d7cc36b115c3edc9847ac,6,FILE_PATH_CHANGED,Then merge fixed identifiers back in,Then merge fixed identifiers back in
+13753,c3f5070a48b0636b1f5d7cc36b115c3edc9847ac,6,SATD_REMOVED,"DM: Changed behaviour here in order to suit MathAssess project better. We now only
+initialise an item once. The previous JQTI behaviour allowed items to be reinitialised,
+which had the effect of rebuilding template variables, which caused randomised questions
+in tests to re-randomise during navigation, which was deemed to be very confusing to students.
+I have left the existing logic intact below.
+
+FIXME-DM: Maybe we should dump this flag completely and only initialise items when it actually makes sense?",None
+13754,c3f5070a48b0636b1f5d7cc36b115c3edc9847ac,6,FILE_PATH_CHANGED,"TODO: Not really sure wha's best here, but probably not important!","TODO: Not really sure what's best here, but probably not important!"
+13756,14ecbbfa6444dc8e0d2f64210af674b57e719b86,6,SATD_REMOVED,"FIXME: Make sure this can now be deleted
+/**
+Resets this expression and all its children state (set same state like before first evaluation).
+@param context TODO
+/",None
+13757,14ecbbfa6444dc8e0d2f64210af674b57e719b86,6,CLASS_OR_METHOD_CHANGED,"FIXME: These operators are legal in test contexts too. We
+need to support this eventually.","FIXME: These operators are legal in test contexts too. We
+need to support this eventually."
+13761,69870631bfc0ce1a25593c832ac8cbbc12379a9f,6,SATD_MOVED_FILE,"First do QTI 2.1 namespace
+TODO: If we add support for APIP, we'll need to change namespace here","First do QTI 2.1 namespace
+TODO: If we add support for APIP, we'll need to change namespace here"
+13762,69870631bfc0ce1a25593c832ac8cbbc12379a9f,6,CLASS_OR_METHOD_CHANGED,Consider node itself,Consider node itself
+13763,69870631bfc0ce1a25593c832ac8cbbc12379a9f,6,SATD_REMOVED,TODO: Bring some of the SnuggleTeX XML Utility classes in to make this easier,None
+13764,69870631bfc0ce1a25593c832ac8cbbc12379a9f,6,SATD_REMOVED,TODO: Maybe allow some more control over this choice of prefix?,-------------------------------------------------------------------------------
+13767,5e52065c2d2dd816ce1f7174eddaaeeb33b70a1d,6,SATD_REMOVED,FIXME: Is the following original logic still wanted?,None
+13768,5e52065c2d2dd816ce1f7174eddaaeeb33b70a1d,6,FILE_PATH_CHANGED,"TODO: If we choose to support APIP or later versions of QTI, we'll
+need to change output namespace, so this will have to change.","TODO: If we choose to support APIP or later versions of QTI, we'll
+need to change output namespace, so this will have to change."
+13772,739c50cf9cc21afcf9d65a730045fa9ad6b4c8b4,6,SATD_REMOVED,(Slightly artificial implementation has to reflect non-directional nature of this value),None
+13775,c54243803a62434cb7eee3dbd256281e93e45f4b,6,SATD_CHANGED,NB: Maybe this needs to account for selection/ordering?,"@Override
+@ToRefactor
+/* NB: Maybe this needs to account for selection/ordering? */"
+13776,c54243803a62434cb7eee3dbd256281e93e45f4b,6,SATD_REMOVED,NB: Maybe this needs to account for selection/ordering?,"}
+"
+13777,c54243803a62434cb7eee3dbd256281e93e45f4b,6,SATD_REMOVED,NB: Maybe this needs to account for selection/ordering?,(blank)
+13778,c54243803a62434cb7eee3dbd256281e93e45f4b,6,SATD_REMOVED,NB: Maybe this needs to account for selection/ordering?,"}
+}
+}
+"
+13779,c54243803a62434cb7eee3dbd256281e93e45f4b,6,SATD_REMOVED,NB: Maybe this needs to account for selection/ordering?,}
+13780,c54243803a62434cb7eee3dbd256281e93e45f4b,6,SATD_REMOVED,NB: Maybe this needs to account for selection/ordering?,"}
+}
+}"
+13781,c54243803a62434cb7eee3dbd256281e93e45f4b,6,SATD_REMOVED,NB: Maybe this needs to account for selection/ordering?,"NB: The 2 methods below are probably obsolete. They also dont handle the fact that
+identifiers in tests are Strings, whereas elsewhere the're Identifiers.
+/**
+Returns all item references of given parent (identifier).
+<ul>
+<li>If you pass identifier of test or null, you will get all item references in test.</li>
+<li>If you pass identifier of section, you will get all item references in this section.</li>
+<li>If you pass identifier of item reference, you will get this item reference.</li>
+<li>If you pass unknown identifier, you will get empty list.</li>
+</ul>
+
+@param identifier identifier of requested parent
+@return all item references of given parent (identifier)
+@see #lookupItemRefs(String, List, List)
+/
+@Deprecated
+@ToRefactor
+/* NB: Maybe this needs to account for selection/ordering? */"
+13782,c54243803a62434cb7eee3dbd256281e93e45f4b,6,SATD_REMOVED,NB: Maybe this needs to account for selection/ordering?,"}
+
+/**
+Returns all item references of given parent (identifier) with given conditions.
+
+@param identifier identifier of requested parent
+@param includeCategories returned item reference must contain this category
+@param excludeCategories returned item reference must not contain this category
+@return all item references of given parent (identifier) with given conditions
+@see #lookupItemRefs(String)
+/
+@Deprecated
+@ToRefactor
+/* NB: Maybe this needs to account for selection/ordering? */"
+13783,c54243803a62434cb7eee3dbd256281e93e45f4b,6,SATD_REMOVED,NB: Maybe this needs to account for selection/ordering?,"}
+"
+13784,c54243803a62434cb7eee3dbd256281e93e45f4b,6,SATD_REMOVED,NB: Maybe this needs to account for selection/ordering?,(blank)
+13785,c54243803a62434cb7eee3dbd256281e93e45f4b,6,SATD_REMOVED,NB: Maybe this needs to account for selection/ordering?,}
+13786,c54243803a62434cb7eee3dbd256281e93e45f4b,6,SATD_REMOVED,NB: Maybe this needs to account for selection/ordering?,"NB: The 2 methods below are probably obsolete. They also dont handle the fact that
+identifiers in tests are Strings, whereas elsewhere they're Identifiers.
+/**
+Returns all item references of given parent (identifier).
+<ul>
+<li>If you pass identifier of test or null, you will get all item references in test.</li>
+<li>If you pass identifier of section, you will get all item references in this section.</li>
+<li>If you pass identifier of item reference, you will get this item reference.</li>
+<li>If you pass unknown identifier, you will get empty list.</li>
+</ul>
+
+@param identifier identifier of requested parent
+@return all item references of given parent (identifier)
+@see #lookupItemRefs(String, List, List)
+/
+@Deprecated
+@ToRefactor
+/* NB: Maybe this needs to account for selection/ordering? */"
+13787,c54243803a62434cb7eee3dbd256281e93e45f4b,6,SATD_REMOVED,NB: Maybe this needs to account for selection/ordering?,"}
+
+/**
+Returns all item references of given parent (identifier) with given conditions.
+
+@param identifier identifier of requested parent
+@param includeCategories returned item reference must contain this category
+@param excludeCategories returned item reference must not contain this category
+@return all item references of given parent (identifier) with given conditions
+@see #lookupItemRefs(String)
+/
+@Deprecated
+@ToRefactor
+/* NB: Maybe this needs to account for selection/ordering? */"
+13788,c54243803a62434cb7eee3dbd256281e93e45f4b,6,SATD_REMOVED,NB: Maybe this needs to account for selection/ordering?,"}
+"
+13789,c54243803a62434cb7eee3dbd256281e93e45f4b,6,SATD_REMOVED,NB: Maybe this needs to account for selection/ordering?,(blank)
+13790,c54243803a62434cb7eee3dbd256281e93e45f4b,6,SATD_REMOVED,NB: Maybe this needs to account for selection/ordering?,}
+13828,aa9219f6277ce77d2f80e5c20ce8b269b4e3a1cd,6,SATD_REMOVED,"FIXME: This is too strict, but will require a lot more logic to relax",None
+13843,ca590b6a426f13ab1cc1e37a6b8f41ab311b1dec,6,CLASS_OR_METHOD_CHANGED,"FIXME: I've hard-coded maxAttempts=1 (for non-adaptive) items here. In future, this
+should be settable by the instructor.","FIXME: I've hard-coded maxAttempts=1 (for non-adaptive) items here. In future, this
+should be settable by the instructor."
+13844,ca590b6a426f13ab1cc1e37a6b8f41ab311b1dec,6,SATD_REMOVED,"Some responses could not be bound.
+
+(This would happen if the client sends the wrong type of response data. This is
+NOT the fault of the candidate - it is either caused by the API caller or the
+rendering layer.)",Build Map of responses in appropriate entity form
+13848,531791d82054de166934001bb041dc2b9947b6c1,6,SATD_REMOVED,FIXME: Following cant be null! Check what else uses this failure reason,Make sure an attempt is allowed
+13849,531791d82054de166934001bb041dc2b9947b6c1,6,SATD_REMOVED,"FIXME: Need more rigorous state checking, e.g. no attempt after complete etc.",Make sure an attempt is allowed
+13850,b4dc6cf6b6b8faf950e3dcbc5fb091e1e5e2f591,6,SATD_REMOVED,"FIXME: I've hard-coded maxAttempts=1 (for non-adaptive) items here. In future, this
+should be settable by the instructor.",Pass raw response inputs (if appropriate)
+13870,2110c277e7b5f616f0bc4292858f2545c2209ee5,6,SATD_REMOVED,TODO: Need to redirect somewhere useful!,None
+13917,ece18e116fa950c0c125901cc145263cd83de84b,6,SATD_REMOVED,FIXME!,None
+13918,ece18e116fa950c0c125901cc145263cd83de84b,6,FILE_PATH_CHANGED,FIXME: Log this better,FIXME: Log this better
+13919,ece18e116fa950c0c125901cc145263cd83de84b,6,SATD_REMOVED,"No userId specified, so we'll have to synthesise something that will be unique enough",None
+13934,80f01b05d9e3797bc2cddf6783f82d03cbca7b53,6,SATD_REMOVED,TODO-LATER: Maybe allow some more control over this choice of prefix?,None
+13944,a7899a6aaf38d6d5f2e142eaea01823871ea8fc5,6,SATD_REMOVED,"First do QTI 2.1 namespace.
+NB: We are ONLY writing out QTI 2.1 here.
+TODO: If we add support for APIP, we'll need to change namespace here","If Node is an extension element, then note which package that element belongs to"
+13945,a7899a6aaf38d6d5f2e142eaea01823871ea8fc5,6,SATD_CHANGED,"First do QTI 2.1 namespace.
+NB: We are ONLY writing out QTI 2.1 here.
+TODO: If we add support for APIP, we'll need to change namespace here","TODO: If we add support for apip:accessibility, check for it here"
+13946,a7899a6aaf38d6d5f2e142eaea01823871ea8fc5,6,SATD_REMOVED,"First do QTI 2.1 namespace.
+NB: We are ONLY writing out QTI 2.1 here.
+TODO: If we add support for APIP, we'll need to change namespace here",Check for use of MathML
+13951,a7899a6aaf38d6d5f2e142eaea01823871ea8fc5,6,SATD_REMOVED,TODO-LATER: Maybe allow some more control over this choice of prefix?,None
+13963,97efd664f38827588dfa4d0c804c353250d4c1a2,6,SATD_REMOVED,"FIXME: These operators are legal in test contexts too. We
+need to support this eventually.",None
+13971,a27b1363856be560e70cabf0615a02d4ebc784eb,6,SATD_REMOVED,"FIXME: I've chosen not to say anything here, but it is possible for the resulting value to be illegal",None
+13972,a27b1363856be560e70cabf0615a02d4ebc784eb,6,SATD_REMOVED,FIXME: What to do if we get NULL result? Is an Exception the best thing?,None
+13977,47cddb402d6e31de2da11d7cb5ba830ae90a616d,6,SATD_REMOVED,FIXME: Cut & paste below! Refactor this!,None
+13997,46c4b5ef047f42363944d1416d20f5d156ebb738,6,SATD_REMOVED,"Default dont get overridden in tests
+FIXME: Should we even be allowed to access test variables here?",None
+13999,8aa0cf8ddbe37e5096d2f9a388b1036cd0c10cd7,6,SATD_REMOVED,"/**
+Provides current time.
+This approach is because of testing. Timer for automated testing purposes can return discrete values
+instead of real time. You do not need to modify timer in real test.
+/",Test doesnt have any parent.
+14000,8aa0cf8ddbe37e5096d2f9a388b1036cd0c10cd7,6,SATD_REMOVED,"(These have all moved to AssessmentTestController)
+/**
+Returns current result of this test (only test itself, no items).
+
+@param parent parent of created result
+@return current result of this test (only test itself, no items)
+/
+@ToRefactor
+public TestResult getTestResult(AssessmentResult parent)",---------------------------------------------------------------
+14001,8aa0cf8ddbe37e5096d2f9a388b1036cd0c10cd7,6,SATD_REMOVED,if (!(parent instanceof AssessmentItemRef)),None
+14007,76f96f12f8d4f21c32fc56e454d4c90917f63fd9,6,SATD_REMOVED,"@Override
+@ToRefactor
+/* NB: Maybe this needs to account for selection/ordering? */",None
+14032,00c8ce9c3cdf89d95f774ec0c6a531ba02aa416c,6,SATD_REMOVED,CUT & PASTE BELOW - YUCK!,None
+14056,acfc80add2ea29b2e080895b02b840b6e06d00b7,6,CLASS_OR_METHOD_CHANGED,FIXME: Next wodge of code has some cut & paste!,FIXME: Next wodge of code has some cut & paste!
+14057,acfc80add2ea29b2e080895b02b840b6e06d00b7,6,SATD_REMOVED,FIXME: This is probably not the right logic in general but works OK in this restricted case,None
+14058,acfc80add2ea29b2e080895b02b840b6e06d00b7,6,SATD_REMOVED,"Mark test as finished.
+
+FIXME: This would need generalised to handle multiple testParts",Deselect item
+14060,c3885fffc5d344c4e39b4ed1d98121dc5ef6c52d,6,SATD_REMOVED,"Sue prefers this
+Not in review state yet","(This is selection/presentation navigation, so no longer available)
+(Already closed)"
+14061,c3885fffc5d344c4e39b4ed1d98121dc5ef6c52d,6,CLASS_OR_METHOD_CHANGED,"Sue prefers this
+Not in review state yet","Sue prefers this
+Not in review state yet"
+14062,c3885fffc5d344c4e39b4ed1d98121dc5ef6c52d,6,SATD_REMOVED,Allow deselection FIXME: Review when we support linear?,None
+14065,cfe441e17a5878475296204a8fc45863ec2b564e,6,SATD_CHANGED,"FIXME: Only supporting NONLINEAR so far, so only outcome is to show navigation menu","FIXME: Handle the case of a degenerate test (i.e. no usable testParts, possibly because of
+failed preconditions).
+
+FIXME: Handle the case where there is a testPart, but it doesnt contain any usable
+items, so gets ended immediately."
+14066,cfe441e17a5878475296204a8fc45863ec2b564e,6,SATD_REMOVED,"FIXME: Only supporting NONLINEAR so far, so only outcome is to show navigation menu",Item has been selected === non-degenerate linear navigation
+14067,cfe441e17a5878475296204a8fc45863ec2b564e,6,SATD_REMOVED,"FIXME: Only supporting NONLINEAR so far, so only outcome is to show navigation menu","No item selected === non-linear navigation, show menu"
+14068,cfe441e17a5878475296204a8fc45863ec2b564e,6,SATD_REMOVED,"Mark item as being presented
+FIXME: Is this the right place, or should it go in engine service layer?",Mark item as being presented
+14069,cfe441e17a5878475296204a8fc45863ec2b564e,6,SATD_REMOVED,Allow deselection FIXME: Review when we support linear?,Mark item as being presented
+14070,cfe441e17a5878475296204a8fc45863ec2b564e,6,SATD_REMOVED,"Mark item as being presented
+FIXME: Is this the right place, or should it go in engine service layer?",Make sure we're in linear navigation mode
+14071,cfe441e17a5878475296204a8fc45863ec2b564e,6,SATD_REMOVED,"Mark item as being presented
+FIXME: Is this the right place, or should it go in engine service layer?",Find next item
+14075,d15057634d80ab4c3d6037136b5a34d9af7ccb69,6,SATD_REMOVED,FIXME: Currently EXIT_TEST_PART exits the test completely,None
+14076,d15057634d80ab4c3d6037136b5a34d9af7ccb69,6,SATD_REMOVED,"FIXME: Handle the case of a degenerate test (i.e. no usable testParts, possibly because of
+failed preconditions).
+
+FIXME: Handle the case where there is a testPart, but it doesnt contain any usable
+items, so gets ended immediately.","An item is selected, so render it in appropriate state"
+14077,d15057634d80ab4c3d6037136b5a34d9af7ccb69,6,SATD_REMOVED,"FIXME: Handle the case of a degenerate test (i.e. no usable testParts, possibly because of
+failed preconditions).
+
+FIXME: Handle the case where there is a testPart, but it doesnt contain any usable
+items, so gets ended immediately.",No item selected
+14078,d15057634d80ab4c3d6037136b5a34d9af7ccb69,6,SATD_REMOVED,"FIXME: Handle the case of a degenerate test (i.e. no usable testParts, possibly because of
+failed preconditions).
+
+FIXME: Handle the case where there is a testPart, but it doesnt contain any usable
+items, so gets ended immediately.","testPart has ended, so must be showing testPart feedback"
+14079,d15057634d80ab4c3d6037136b5a34d9af7ccb69,6,SATD_REMOVED,"FIXME: Handle the case of a degenerate test (i.e. no usable testParts, possibly because of
+failed preconditions).
+
+FIXME: Handle the case where there is a testPart, but it doesnt contain any usable
+items, so gets ended immediately.","testPart not ended, so we must be showing the navigation menu in nonlinear mode"
+14080,d15057634d80ab4c3d6037136b5a34d9af7ccb69,6,SATD_REMOVED,FIXME! This logic is not right!,None
+14083,2206ea6d9258456285e6643cf65d8e98df436cc7,6,SATD_CHANGED,Not in review state yet,"Not in review state yet
+Ditto"
+14084,2206ea6d9258456285e6643cf65d8e98df436cc7,6,SATD_CHANGED,FIXME: Make sure we're allowed to review this item: allowReview OR showFeedback must be true,"We'll do effectively the same thing as closed, but tweak the available options a bit"
+14085,2206ea6d9258456285e6643cf65d8e98df436cc7,6,SATD_REMOVED,FIXME: Make sure we're allowed to review this item: allowReview OR showFeedback must be true,"(Not used in review state)
+(Ditto)"
+14086,2206ea6d9258456285e6643cf65d8e98df436cc7,6,CLASS_OR_METHOD_CHANGED,FIXME: Need to check that the current test part is finished. We dont currently model this.,FIXME: Need to check that the current test part is finished. We dont currently model this.
+14089,eb4a2d5b6926cd6e008403feeada0844df3b4b17,6,SATD_REMOVED,FIXME: Temporary override until we get decent authoring info!,None
+14090,6cd678149589ecabeece4a8abddcb1b500337636,6,SATD_REMOVED,"We won't fail here, but this is probably a bad sign so let's log it!",None
+14114,3b617790e6e82f75bafb5600311952ba994c32e5,6,SATD_REMOVED,FIXME: This is probably not the right logic in general but works OK in this restricted case,None
+14115,3b617790e6e82f75bafb5600311952ba994c32e5,6,SATD_REMOVED,"Extract state attributes
+FIXME: Remove legacy true
+FIXME: Remove legacy false
+FIXME: Remove legacy false",Create TestSessionState from TestPlan
+14116,3b617790e6e82f75bafb5600311952ba994c32e5,6,SATD_REMOVED,"Extract state attributes
+FIXME: Remove legacy true
+FIXME: Remove legacy false
+FIXME: Remove legacy false",Extract state attributes
+14142,cceb54a8be350a9feec45c0dad187c77e38486e2,6,SATD_REMOVED,FIXME: Change this!,None
+14143,cceb54a8be350a9feec45c0dad187c77e38486e2,6,CLASS_OR_METHOD_CHANGED,"If we're building HTML5, add in its custom pseudo-DOCTYPE as we cant generate this in XSLT.
+(NB: This only works sanely as we've hard-coded a reasonable encoding.)","If w're building HTML5, add in its custom pseudo-DOCTYPE as we cant generate this in XSLT.
+(NB: This only works sanely as we've hard-coded a reasonable encoding.)"
+14166,760d97c5e628bd249b558c4357b8314ce239e4e9,6,CLASS_OR_METHOD_CHANGED,Extract item to review,Extract item to review
+14167,760d97c5e628bd249b558c4357b8314ce239e4e9,6,CLASS_OR_METHOD_CHANGED,Extract item to review,Extract item to review
+14168,760d97c5e628bd249b558c4357b8314ce239e4e9,6,SATD_REMOVED,"If w're building HTML5, add in its custom pseudo-DOCTYPE as we cant generate this in XSLT.
+(NB: This only works sanely as we've hard-coded a reasonable encoding.)","If we're building HTML5, send its custom pseudo-DOCTYPE to the Result, as we cant generate this in XSLT."
+14169,760d97c5e628bd249b558c4357b8314ce239e4e9,6,CLASS_OR_METHOD_CHANGED,Now set candidate action permissions depending on state of session,Now set candidate action permissions depending on state of session
+14170,760d97c5e628bd249b558c4357b8314ce239e4e9,6,CLASS_OR_METHOD_CHANGED,Extract item to review,Extract item to review
+14171,2121bb86cebcefd28af8b625e57d8616a5af824a,6,SATD_REMOVED,FIXME: Probably have further checks to do here?,Perform action
+14172,2121bb86cebcefd28af8b625e57d8616a5af824a,6,SATD_REMOVED,FIXME: Add checks to make sure we can do this,None
+14173,2121bb86cebcefd28af8b625e57d8616a5af824a,6,SATD_REMOVED,FIXME: Make sure the testPart is currently ended,None
+14174,2121bb86cebcefd28af8b625e57d8616a5af824a,6,SATD_REMOVED,FIXME: Need to check that the current test part is finished. We dont currently model this.,None
+14225,721bfcedf07ce91d4cb4409f29c4133621f33fc8,6,SATD_REMOVED,Maybe validate AssessmentPackage,None
+14226,721bfcedf07ce91d4cb4409f29c4133621f33fc8,6,SATD_REMOVED,Maybe validate new AssessmentPackage,None
+14228,721bfcedf07ce91d4cb4409f29c4133621f33fc8,6,FILE_PATH_CHANGED,Barf,Barf
+14247,70d5d762f3b389851acb5330e936fe283b27f5a8,6,SATD_REMOVED,FIXME: This way of accessing outcome values looks old... probably needs refactored!,None
+14248,70d5d762f3b389851acb5330e936fe283b27f5a8,6,SATD_REMOVED,"TODO: Filter out the required assessmentItemRef instances and get the subclass to
+process them in some suitable way.",None
+14271,5ebcc9e373420c88e8e7f1beb607e62ec5025b28,6,SATD_REMOVED,Create a delivery and a (hacky) token to pass back to access this delivery,Create a delivery and a token to pass back for subsequently accessing this delivery
+14465,411330641153463889c4f8ce295140ee140380bb,14,SATD_REMOVED,"TODO : maybe add a break here to prevent severals plugins to
+receive it",only send to last plugin raising the exception
+14473,411330641153463889c4f8ce295140ee140380bb,14,CLASS_OR_METHOD_CHANGED,"FIXME : why we did that ??
+this is not a good idea to force bounds when rescale = false","FIXME : why we did that ??
+this is not a good idea to force bounds when rescale = false"
+14476,411330641153463889c4f8ce295140ee140380bb,14,SATD_REMOVED,FIXME : mettre ca dans un stream Plugin Manager ?,None
+14477,411330641153463889c4f8ce295140ee140380bb,14,SATD_REMOVED,"// FIXME : a mettre dans un stream Plugin Manager
+@Override
+public void registerStreamPlugin(PluginStreamGenerator pluginStreamGenerator)",None
+14483,f41ed231462c9f7d5c1d99a053a00aafd0af7e97,14,SATD_REMOVED,FIXME : why we need this ???,None
+14484,f41ed231462c9f7d5c1d99a053a00aafd0af7e97,14,SATD_REMOVED,FIXME : why we need this ???,None
+14485,f41ed231462c9f7d5c1d99a053a00aafd0af7e97,14,SATD_REMOVED,FIXME : why we need this ???,None
+14486,f41ed231462c9f7d5c1d99a053a00aafd0af7e97,14,CLASS_OR_METHOD_CHANGED,TODO: add sequences from swimming pool ?,TODO: add sequences from swimming pool ?
+14487,f41ed231462c9f7d5c1d99a053a00aafd0af7e97,14,CLASS_OR_METHOD_CHANGED,TODO: add ROI from swimming pool ?,TODO: add ROI from swimming pool ?
+14488,f41ed231462c9f7d5c1d99a053a00aafd0af7e97,14,CLASS_OR_METHOD_CHANGED,TODO: add Painter from swimming pool ?,TODO: add Painter from swimming pool ?
+14489,f41ed231462c9f7d5c1d99a053a00aafd0af7e97,14,SATD_REMOVED,"// TODO Auto-generated method stub
+
+}",None
+14490,f41ed231462c9f7d5c1d99a053a00aafd0af7e97,14,SATD_REMOVED,"TODO : ajouter un support pour etre appelle en static ou encore pour que le plug genere son
+code macro ?
+TODO : ajouter le support de history ?",None
+14498,89ec2167ac5e73f5db57f13eb0d377c8d1a57e6c,14,SATD_REMOVED,"safety to dispatch on AWT for sequence
+afaik this is not safe at all as dead lock can occurs very quickly",None
+14517,fb507a1c56bf0500865ec962fac5e1f2cad3cb8b,14,SATD_REMOVED,HashSet is better suited for add without duplication,None
+14518,fb507a1c56bf0500865ec962fac5e1f2cad3cb8b,14,SATD_REMOVED,TODO: add sequences from swimming pool ?,no duplicate
+14519,fb507a1c56bf0500865ec962fac5e1f2cad3cb8b,14,CLASS_OR_METHOD_CHANGED,TODO: add ROI from swimming pool ?,TODO: add ROI from swimming pool ?
+14520,fb507a1c56bf0500865ec962fac5e1f2cad3cb8b,14,CLASS_OR_METHOD_CHANGED,TODO: add Painter from swimming pool ?,TODO: add Painter from swimming pool ?
+14533,1041ce3105976bc6c707c0f23a5bee9cabf7ec61,14,SATD_MOVED_FILE,"FIXME : why we did that ??
+this is not a good idea to force bounds when rescale = false","FIXME : why we did that ??
+this is not a good idea to force bounds when rescale = false"
+14534,1041ce3105976bc6c707c0f23a5bee9cabf7ec61,14,SATD_REMOVED,"FIXME : We use InvokeNow(...) to avoid the JVM deadlock bug (id: 5104239) when the
+AWT
+thread is initialized while others threads load some new library with
+ClassLoader.loadLibrary
+ThreadUtil.invokeNow(new Runnable()",patches ImageJ classes
+14535,1041ce3105976bc6c707c0f23a5bee9cabf7ec61,14,SATD_REMOVED,"FIXME : We use InvokeNow(...) to avoid the JVM deadlock bug (id: 5104239) when the
+AWT
+thread is initialized while others threads load some new library with
+ClassLoader.loadLibrary
+ThreadUtil.invokeNow(new Runnable()",build main interface
+14536,1041ce3105976bc6c707c0f23a5bee9cabf7ec61,14,SATD_REMOVED,// preload them here so further process won't wait them too much...,None
+14555,503fda9500764f336233eba3d31386c2855e1ebc,14,SATD_REMOVED,TODO: remove that when plugin will be updated,None
+14570,d57b06d2c36afd0bac7d3cd8b0f2b6dc3de94040,14,SATD_REMOVED,simple search in name and description,None
+14571,d57b06d2c36afd0bac7d3cd8b0f2b6dc3de94040,14,CLASS_OR_METHOD_CHANGED,"can take sometime, better to execute it in background","can take sometime, better to execute it in background"
+14572,d57b06d2c36afd0bac7d3cd8b0f2b6dc3de94040,14,SATD_REMOVED,"if we have the local search provider, we try to transfer the result
+TODO: maybe we can do better than this hack...","if we have the local search provider, we try to add result if not already existing"
+14573,d57b06d2c36afd0bac7d3cd8b0f2b6dc3de94040,14,SATD_REMOVED,"not already present in local result --> add it
+TODO: serious hack here, try to improve that later :-/",not already present in local result --> add it
+14574,d57b06d2c36afd0bac7d3cd8b0f2b6dc3de94040,14,SATD_REMOVED,FIXME : why this is needed ?,nothing here
+14625,f787185854980dfb892f74d85c5088061e470fa2,14,SATD_REMOVED,TODO,easy discard
+14626,f787185854980dfb892f74d85c5088061e470fa2,14,CLASS_OR_METHOD_CHANGED,TODO,TODO
+14627,f787185854980dfb892f74d85c5088061e470fa2,14,SATD_REMOVED,TODO,easy discard
+14628,f787185854980dfb892f74d85c5088061e470fa2,14,SATD_REMOVED,TODO,default
+14629,f787185854980dfb892f74d85c5088061e470fa2,14,CLASS_OR_METHOD_CHANGED,TODO,TODO
+14630,f787185854980dfb892f74d85c5088061e470fa2,14,SATD_REMOVED,if ((roi1 instanceof ROI2DShape) && (roi2 instanceof ROI2DShape)),None
+14635,5b6ce9444a291c27a4d6edf893f2784ce3200854,14,SATD_REMOVED,better to use ROI position ?,None
+14636,5b6ce9444a291c27a4d6edf893f2784ce3200854,14,FILE_PATH_CHANGED,this ROI doesnt take care of inclusive parameter as intersect = contains,this ROI doesnt take care of inclusive parameter as intersect = contains
+14637,5b6ce9444a291c27a4d6edf893f2784ce3200854,14,FILE_PATH_CHANGED,just take care about path,just take care about path
+14638,5b6ce9444a291c27a4d6edf893f2784ce3200854,14,FILE_PATH_CHANGED,TODO,TODO
+14639,5b6ce9444a291c27a4d6edf893f2784ce3200854,14,FILE_PATH_CHANGED,FIXME : need a better implementation,FIXME : need a better implementation
+14640,5b6ce9444a291c27a4d6edf893f2784ce3200854,14,FILE_PATH_CHANGED,FIXME: hacky method to know visibility flags should not be impacted here,None
