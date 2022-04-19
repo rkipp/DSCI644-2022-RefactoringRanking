@@ -38,8 +38,11 @@ These notebooks were built using the libraries in the `requirements.txt` file ru
 
 To reproduce our results from scratch, follow these steps:
 
-1. TODO
-2. TODO
+The models were generated using Weka (https://www.cs.waikato.ac.nz/ml/weka/) v3.8.6.  Once downloaded and installed, the data files can be opened within Weka using either the csv version or the Weka-formatted arff version.  To reconstruct the models, under the Classify tab, click on "Choose", scroll down to "Trees" and select "RandomForest".  No further settings are required; the default parameters are shown by clicking in the white-box that shows "RandomForest -P 100 -l 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1".  The maximum depth is unlimited, i.e. all attributes will be explored.  The number of trees per forest is 100.
+
+Under Test Options select Cross-validation with Folds = 10.  Ensure that the drop-down shows "(Nom) L6" indicating that as the class to be predicted, and click on Start.  This starts the model build process which may take several seconds (upto a few minutes depending on the hardware specs).  Upon successful completion, the classifier accuracies and confusion matrix are shown in the Classifier Output pane.  The model can be saved by right-clicking on the model (in the Result list pane).  The precision-recall and other outputs can be viewed and saved by right-clicking on the model and selecting "Visualize Threshold Curve".
+
+The above steps need to be followed separately for each of the data sets.
 
 ## Making a prediction from a trained model
 
