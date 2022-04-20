@@ -69,6 +69,7 @@ Once a model is built and trained on a project, run the model with a properly fo
 
 type-of-refactor,six-file-path-level-of-file-to-be-refactored
 
+Acknowledging: https://machinelearningmastery.com/save-machine-learning-model-make-predictions-weka/ for the very clear description of how to do the above.
 
 ### type-of-refactor
 
