@@ -36,11 +36,26 @@ These notebooks were built using the libraries in the `requirements.txt` file ru
 
 ## Model Building Process - Reproducing Our Results
 
-To reproduce our results from scratch, follow these steps:
+The models were generated using Weka (https://www.cs.waikato.ac.nz/ml/weka/) v3.8.6.  Once downloaded and installed (see `documentation/01_Weka_install_win10.mp4` for details), the data files can be opened within Weka using either the csv version or the Weka-formatted arff version.  To read in a data file into Weka, follow these steps:
 
-The models were generated using Weka (https://www.cs.waikato.ac.nz/ml/weka/) v3.8.6.  Once downloaded and installed, the data files can be opened within Weka using either the csv version or the Weka-formatted arff version.  To reconstruct the models, under the Classify tab, click on "Choose", scroll down to "Trees" and select "RandomForest".  No further settings are required; the default parameters are shown by clicking in the white-box that shows "RandomForest -P 100 -l 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1".  The maximum depth is unlimited, i.e. all attributes will be explored.  The number of trees per forest is 100.
+1. Download 1 or more of the files in the `data/` folder that start with **df_**.  Two of these files will be `csv` and the other two will be `arff` which is the native Weka format.
+2. Launch the Weka GUI - After installing Weka for Windows, you will have two launch options: "Weka 3.8.6" and "Weka 3.8.6 (with console)".  Click on the "Weka 3.8.6" option to launch the GUI version.
+3. From the main Weka GUI, you'll see a column on the right side of the interface labled "Applications".  In this column will be an option labled "Workbench".  Click this button to bring up the "Weka Workbench" screen.
+4. Click on the "Open File..." button near the top of the "Weka Workbench" screen.  This will bring up the "Open" file dialog screen.
+5. Select the type of file you want to open from drop down menu at bottom of the "Open" dialog screen (either CSV or Arff)
+6. Select one of the data files you downloaded in step 1 and click "Open".
+7. In the "Attributes" section on the left, select the **FilePath** and **AuthorName** attributes and then click the **Remove** button at the bottom of this section.  This step removes the columns that aren't used in the modeling process.
 
-Under Test Options select Cross-validation with Folds = 10.  Ensure that the drop-down shows "(Nom) L6" indicating that as the class to be predicted, and click on Start.  This starts the model build process which may take several seconds (upto a few minutes depending on the hardware specs).  Upon successful completion, the classifier accuracies and confusion matrix are shown in the Classifier Output pane.  The model can be saved by right-clicking on the model (in the Result list pane).  The precision-recall and other outputs can be viewed and saved by right-clicking on the model and selecting "Visualize Threshold Curve".
+After completing the above steps, the data is ready for the model building step.  To reconstruct a Random Forest classifier model in Weka, follow these steps:
+
+1. After opening a data file, from the second row of button at the top of Weka Workbench, click on the **Classify** button. This will open the *Classify* tab.
+2. From the *Classify* tab, click the **Choose** button near the top, scroll down to the list and expand the *trees* option.
+3. Under the *trees* folder, select *RandomForest*.  This will fill in the following text into the box next the the **Choose** button: `RandomForest -P 100 -l 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1`.  The **-P** option means [add description]. The **-l** option means [add description]. The **-num-slots** option means: The number of execution slots (threads) to use for constructing the ensemble. The **-K** option sets the number of randomly chosen attributes. If 0, int(log_2(#predictors) + 1) is used. The **-M** option means [add description]. The **-V** option means [add description]. The **-S** option means [add description].
+4. Click the dropdown box just above the **Start** and **Stop** buttons and select **(Nom) AuthorGroup**. This selects the response variable.
+5. Under **Test options** section, select **Cross-validation** and enter 10 for the value of **Folds**.
+6. Click the **Start** button to start the model build process.
+
+The model build process may take awhile depending on your hardware.  Upon successful completion, the classifier accuracies and confusion matrix will be shown in the **Classifier output** pane on the right.  The model can be saved by right-clicking on the model (in the **Result list** pane).  The precision-recall and other outputs can be viewed and saved by right-clicking on the model and selecting "Visualize Threshold Curve".
 
 The above steps need to be followed separately for each of the data sets.
 
@@ -49,6 +64,7 @@ The above steps need to be followed separately for each of the data sets.
 Once a model is built and trained on a project, run the model with a properly formatted input to generate a prediction.  To create a properly formatted request, start with an unformatted refactoring request that takes the following form:
 
 type-of-refactor,six-file-path-level-of-file-to-be-refactored
+
 
 ### type-of-refactor
 
