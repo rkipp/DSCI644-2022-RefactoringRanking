@@ -44,7 +44,7 @@ The models were generated using Weka (https://www.cs.waikato.ac.nz/ml/weka/) v3.
 4. Click on the "Open File..." button near the top of the "Weka Workbench" screen.  This will bring up the "Open" file dialog screen.
 5. Select the type of file you want to open from drop down menu at bottom of the "Open" dialog screen (either CSV or Arff)
 6. Select one of the data files you downloaded in step 1 and click "Open".
-7. In the "Attributes" section on the left, select the **FilePath** and **AuthorName** attributes and then click the **Remove** button at the bottom of this section.  This step removes the columns that aren't used in the modeling process.
+7. In the "Attributes" section on the left, if anything other than: **RefactorType**,  **L1**, **L2**, **L3**, **L4**, **L5**, **L6**, or **AuthorGroup** is listed, select those items and then click the **Remove** button at the bottom of this section.  This step removes the columns that aren't used in the modeling process.
 
 After completing the above steps, the data is ready for the model building step.  To reconstruct a Random Forest classifier model in Weka, follow these steps:
 
@@ -83,6 +83,8 @@ Move Attribute, Move And Rename Class, Inline Variable, Rename Class,
 Pull Up Method, Replace Variable With Attribute, Move Source Folder, Pull Up Attribute,
 Extract Interface, Move And Rename Attribute, Change Package
 
+Remember, these values need to enclosed in single quotes as discussed above when creating rows to make predictions on.
+
 ### six-file-path-level-of-file-to-be-refactored
 
 An example of a adangle/PMD project-relative path will look like this:
@@ -93,18 +95,11 @@ This file path would be converted at follows:
 
 pmd-core,src,main,java,net,sourceforge/pmd/util/document/DocumentOperationsApplierForNonOverlappingRegions.java
 
-### Example of input formatted
+### Example of a formatted input row
 
-Using the example developed above, the full input to model would be a csv string with the following 7 values on a single line:
+Using the example developed above, the full input to model would be a csv string with the following 8 values including the ? at the end on a single line:
 
-Move Class,pmd-core,src,main,java,net,sourceforge/pmd/util/document/DocumentOperationsApplierForNonOverlappingRegions.java
-
-### Running the model to make a prediction
-
-With a properly formatted input string, follow these steps to make a prediction:
-
-1. TODO
-2. TODO
+'Move Class',pmd-core,src,main,java,net,sourceforge/pmd/util/document/DocumentOperationsApplierForNonOverlappingRegions.java,?
 
 
 ## Assumptions
