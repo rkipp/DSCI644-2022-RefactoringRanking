@@ -50,7 +50,7 @@ After completing the above steps, the data is ready for the model building step.
 
 1. After opening a data file, from the second row of button at the top of Weka Workbench, click on the **Classify** button. This will open the *Classify* tab.
 2. From the *Classify* tab, click the **Choose** button near the top, scroll down to the list and expand the *trees* option.
-3. Under the *trees* folder, select *RandomForest*.  This will fill in the following text into the box next the the **Choose** button: `RandomForest -P 100 -l 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1`.  The **-P** option means [add description]. The **-l** option means [add description]. The **-num-slots** option means: The number of execution slots (threads) to use for constructing the ensemble. The **-K** option sets the number of randomly chosen attributes. If 0, int(log_2(#predictors) + 1) is used. The **-M** option means [add description]. The **-V** option means [add description]. The **-S** option means [add description].
+3. Under the *trees* folder, select *RandomForest*.  The parameters for the *RandomForest* can be set left-clicking in the white box next to **Choose**.  The descriptions of each of these parameters is available by clicking on **More**.  
 4. Click the dropdown box just above the **Start** and **Stop** buttons and select **(Nom) AuthorGroup**. This selects the response variable.
 5. Under **Test options** section, select **Cross-validation** and enter 10 for the value of **Folds**.
 6. Click the **Start** button to start the model build process.
