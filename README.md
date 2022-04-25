@@ -63,7 +63,7 @@ The above steps need to be followed separately for each of the data sets.
 
 ## Making a prediction from a trained model
 
-The video in `data\003_weka_RF_finalize_and_predict_win10.mp4` walks through the process described below.
+The video in `data\03_weka_RF_finalize_and_predict_win10.mp4` walks through the process described below.
 
 In order to make a prediction we need two things: the trained model saved in the previous steps, and the dataset that is to be used for prediction.  A sample of the later can be found in `data/sample_predict_on_adangel.arff`.  This file will make six predictions.  Four of these predicitions will be correct, on for each class (extremely high, high, medium, and low).  Two of the predictions will incorrectly classify the low group as shown in the last two rows of Table 8. in our final report located at `documentation/Group4_Phase4_FINAL.pdf`.
 
@@ -123,7 +123,9 @@ Using the example developed above, the full input to model would be a csv string
   - `FilePath` had 3139 unique instances in the *adangle/PMD* project and 1609 in the *hibernate* project.
 + We evaluated the performance of the following 3 types of models: J48 Decision Tree, Naïve-Bayes and Random Forest.
 + Of these 3 models types, **Random Forest** out performed the other two based on the shapes of the ROC and PR curves for each of the 4 response levels as shown in Figure 3. of file `documentation/Group4_Phase4_FINAL.pdf`.
-+ Performance of the adangle/PMD project model was good across all four response levels with only a small amount of degradation moving from extremely high to high to medium to low committer groups.
++ Performance of the adangle/PMD project model was good across all four response levels with only a small amount of decline moving from extremely high to high to medium to low committer groups.
 + Performance of the hibernate project models degraded more severely moving from extremely high to high to medium to low committer groups than the adangle/PMD project.
++ Degradation in performance in the low and medium class predicitions show a strong correlation in the amount of overlap between these groups and the extremely high committer groups.
+  - The calculations done for this test are shown in the file `prop_test.R`
 
 Details of our results are described in the file `documentation/Group4_Phase4_FINAL.pdf`
