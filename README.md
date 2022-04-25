@@ -36,6 +36,8 @@ These notebooks were built using the libraries in the `requirements.txt` file ru
 
 ## Model Building Process - Reproducing Our Results
 
+The video in `data\02_Weka_build_RF_win10.mp4` walks through the steps described below.
+
 The models were generated using Weka (https://www.cs.waikato.ac.nz/ml/weka/) v3.8.6.  Once downloaded and installed (see `documentation/01_Weka_install_win10.mp4` for details), the data files can be opened within Weka using either the csv version or the Weka-formatted arff version.  To read in a data file into Weka, follow these steps:
 
 1. Download 1 or more of the files in the `data/` folder that start with **df_**.  Two of these files will be `csv` and the other two will be `arff` which is the native Weka format.
@@ -60,6 +62,8 @@ The model build process may take awhile depending on your hardware.  Upon succes
 The above steps need to be followed separately for each of the data sets.
 
 ## Making a prediction from a trained model
+
+The video in `data\003_weka_RF_finalize_and_predict_win10.mp4` walks through the process described below.
 
 In order to make a prediction we need two things: the trained model saved in the previous steps, and the dataset that is to be used for prediction.  A sample of the later can be found in `data/sample_predict_on_adangel.arff`.  This file will make six predictions.  Four of these predicitions will be correct, on for each class (extremely high, high, medium, and low).  Two of the predictions will incorrectly classify the low group as shown in the last two rows of Table 8. in our final report located at `documentation/Group4_Phase4_FINAL.pdf`.
 
