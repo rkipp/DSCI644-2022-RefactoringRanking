@@ -125,7 +125,7 @@ Using the example developed above, the full input to model would be a csv string
 + Of these 3 models types, **Random Forest** out performed the other two based on the shapes of the ROC and PR curves for each of the 4 response levels as shown in Figure 3. of file `documentation/Group4_Phase4_FINAL.pdf`.
 + Performance of the adangle/PMD project model was good across all four response levels with only a small amount of decline moving from extremely high to high to medium to low committer groups.
 + Performance of the hibernate project models degraded more severely moving from extremely high to high to medium to low committer groups than the adangle/PMD project.
-+ Degradation in performance in the low and medium class predicitions show a strong correlation in the amount of overlap between these groups and the extremely high committer groups.
++ Degradation in performance in the low and medium class predicitions show a strong correlation in the amount of overlap in the files worked on between these groups and the extremely high committer groups.
   - The calculations done for this test are shown in the file `prop_test.R`
 
 Details of our results are described in the file `documentation/Group4_Phase4_FINAL.pdf`
