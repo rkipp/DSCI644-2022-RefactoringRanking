@@ -10,9 +10,9 @@
 @attribute AuthorGroup {'extremely high',low,medium,high}
 
 @data
-'Rename Method',pmd-apex,src,main,java,net,sourceforge/pmd/lang/apex/ast/ApexTreeBuilder.java,low
-'Extract Variable',pmd-jedit,PMDPlugin,src,net,sourceforge,pmd/jedit/PMDJEditPlugin.java,low
-'Rename Parameter',pmd-core,src,main,java,net,sourceforge/pmd/lang/rule/AbstractDelegateRule.java,'extremely high'
-'Pull Up Method',pmd,src,net,sourceforge,pmd,rules/strings/InefficientEmptyStringCheck.java,high
-'Extract Method',pmd,src,net,sourceforge,pmd,CommandLineOptions.java,medium
-'Rename Method',pmd-core,src,main,java,net,sourceforge/pmd/util/document/DocumentOperationsApplierForNonOverlappingRegions.java,low
+'Rename Method',pmd-apex,src,main,java,net,sourceforge/pmd/lang/apex/ast/ApexTreeBuilder.java,?
+'Extract Variable',pmd-jedit,PMDPlugin,src,net,sourceforge,pmd/jedit/PMDJEditPlugin.java,?
+'Rename Parameter',pmd-core,src,main,java,net,sourceforge/pmd/lang/rule/AbstractDelegateRule.java,?
+'Pull Up Method',pmd,src,net,sourceforge,pmd,rules/strings/InefficientEmptyStringCheck.java,?
+'Extract Method',pmd,src,net,sourceforge,pmd,CommandLineOptions.java,?
+'Rename Method',pmd-core,src,main,java,net,sourceforge/pmd/util/document/DocumentOperationsApplierForNonOverlappingRegions.java,?
