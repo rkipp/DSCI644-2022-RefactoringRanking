@@ -109,6 +109,14 @@ Using the example developed above, the full input to model would be a csv string
 
 'Move Class',pmd-core,src,main,java,net,sourceforge/pmd/util/document/DocumentOperationsApplierForNonOverlappingRegions.java,?
 
+## Plot Creation
+
+The code and the data used to generate the plots in the paper and the presentation can be found in the `plotting` folder.  Weka **arff** files were exported from analyses done in the **Workbench**.  To export the **arff** files used to plot the ROC or PR curves, follow these steps:
+
+1. Immediately after following the 7 steps to read in a design matrix and then the next 6 steps to build an unfinished model as described in the **Model Building Process - Reproducing Our Results** section, right click on the model in the **Result list** and select the **Visualize threshold curve** option and then select one of the output classes you'd like to work with.  This will bring up the **Weka Classifier Visualize** window.
+2. Click the **Save** button near the top of the window and choose a location to store the output.
+
+After exporting the **arff** files for each class, the `scipy.io.arff.loadarff` function was called to load them into a pandas dataframe which was then used to build each plot.  See `plotting/Plotting.ipynb` Python jupyter notebook for further details.
 
 ## Assumptions
 
